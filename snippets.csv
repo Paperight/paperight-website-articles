@@ -1,0 +1,1219 @@
+id,createdDate,groupName,language,name,updatedDate,value,multiline
+1,17/04/05 21:56,searchBar,en,text,17/04/05 21:56,Search for books or documents (e.g. by Title / Author / Keyword / ISBN),0
+2,17/04/05 21:56,searchBar,en,button,17/04/05 21:56,search,0
+3,17/04/05 21:56,homePage,en,postersLine1,18/05/01 15:28,"Get your books in&nbsp;print, anywhere.",0
+4,17/04/05 21:56,homePage,en,postersLine2,18/05/01 15:19,Grassroots print-shop distribution across South Africa.,0
+5,17/04/05 21:56,homePage,en,postersLine3,18/05/01 15:19,See our distribution network »,0
+6,17/04/05 21:56,homePage,en,videoLine1,18/05/01 15:19,Turn your print shop into&nbsp;a&nbsp;book shop,0
+7,17/04/05 21:56,homePage,en,videoLine2,18/05/01 15:19,Run a print shop? Join our network now – it's&nbsp;quick and free.,0
+8,17/04/05 21:56,homePage,en,videoLine3,18/05/01 15:20,"Any print shop can register and start selling legal, low-cost print-outs to customers today.",0
+9,17/04/05 21:56,homePage,en,videoButton,18/05/01 15:19,our books,0
+10,17/04/05 22:05,loginForm,en,alreadyRegisteredHeading,17/04/05 22:05,Already registered?,0
+11,17/04/05 22:05,loginForm,en,email,17/04/05 22:05,Email address,0
+12,17/04/05 22:05,loginForm,en,password,17/04/05 22:05,Password,0
+13,17/04/05 22:05,loginForm,en,rememberMe,17/04/05 22:05,Remember me,0
+14,17/04/05 22:05,loginForm,en,forgotPasswordLink,17/04/05 22:05,Forgot your password?,0
+15,17/04/05 22:05,loginForm,en,loginButton,17/04/05 22:05,Log in,0
+16,17/04/05 22:05,loginForm,en,notRegisteredHeading,17/04/05 22:05,Not yet registered?,0
+168,17/04/30 15:40,loginPanel,en,findOutletButtonHeading,17/04/30 15:40,Customers,0
+18,17/04/05 22:05,loginForm,en,notRegisteredButton,17/04/05 22:05,Register,0
+19,17/04/05 22:06,productDetailAnonymous,en,heading,17/11/01 13:40,Find an outlet to get this book,0
+20,17/04/05 22:06,productDetailAnonymous,en,step1,17/04/05 22:06,"<td width=""60px"" style=""padding-left:10px"">Step 1:</td><td>Find your nearest outlet <a href=""http://help.paperight.com/outlets/"" target=""_blank"">here</a>.</td>",0
+21,17/04/05 22:06,productDetailAnonymous,en,step2,17/04/05 22:06,"<td style=""padding-left:10px"">Step 2:</td><td>Visit the outlet and ask for a Paperight print-out.</td>",0
+22,17/04/05 22:06,productDetailAnonymous,en,step3,17/04/05 22:06,"<td style=""padding-left:10px"">Step 3:</td><td>Pay for and collect your print-out.</td>",0
+23,17/04/05 22:06,productDetailAnonymous,en,question,17/04/05 22:06,"Are you a printing outlet or a publisher? <a style=""cursor: pointer;"" onclick=""window.location.href = '/login/?redirectUrl=' + encodeURIComponent(document.URL); return false;"">Log in</a> or <a href=""/register"">register here</a>.",0
+24,17/04/05 22:06,productDetailMetadata,en,header,17/04/05 22:06,Document information,0
+25,17/04/05 22:06,productDetailMetadata,en,pageExtent,17/04/05 22:06,Number of pages:,0
+26,17/04/05 22:06,productDetailMetadata,en,shortDescription,17/04/05 22:06,Summary:,0
+27,17/04/05 22:06,productDetailMetadata,en,publisher,17/08/02 09:06,Publisher:,0
+28,17/04/05 22:06,productDetailMetadata,en,publicationDate,17/04/05 22:06,First published:,0
+29,17/04/05 22:06,productDetailMetadata,en,primaryLanguages,17/04/05 22:06,Main language(s):,0
+30,17/04/05 22:06,productDetailMetadata,en,audience,17/04/05 22:06,Audience:,0
+31,17/04/05 22:06,productDetailMetadata,en,subjectArea,17/04/05 22:06,Subject Area:,0
+32,17/04/05 22:17,productDetailMetadata,en,longDescription,17/04/05 22:17,Description:,0
+33,17/04/05 22:17,productDetailMetadata,en,primaryCreators,17/04/05 22:17,Primary Creators:,0
+34,17/04/05 22:18,suggestBookWidget,en,heading,17/04/05 22:18,Suggest a book,0
+35,17/04/05 22:18,suggestBookWidget,en,description,17/04/05 22:18,Can't find the title you're after? Let us know and we'll look into it for you.,0
+36,17/04/05 22:18,suggestBookWidget,en,button,17/04/05 22:18,Suggest Book,0
+37,17/04/05 22:18,suggestBookWidget,en,name,17/04/05 22:18,Your Name,0
+38,17/04/05 22:18,suggestBookWidget,en,email,17/04/05 22:18,Email Address,0
+39,17/04/05 22:18,suggestBookWidget,en,bookTitle,17/04/05 22:18,Book Title,0
+40,17/04/05 22:18,suggestBookWidget,en,author,17/04/05 22:18,Author,0
+41,17/04/05 22:18,suggestBookWidget,en,isbn,17/04/05 22:18,ISBN / EAN,0
+42,17/04/05 22:18,suggestBookWidget,en,dialogSubmitting,17/04/05 22:18,Submitting your suggestion...,0
+43,17/04/05 22:18,suggestBookWidget,en,dialogTitle,17/04/05 22:18,Suggest a book,0
+44,17/04/05 22:18,suggestBookWidget,en,dialogSuccess,17/04/05 22:18,Thank you! We've received your suggestion and will look into it.,0
+45,17/04/05 22:18,suggestBookWidget,en,dialogError,17/04/05 22:18,Error,0
+46,17/04/05 22:37,registration,en,heading,17/04/05 22:37,Registration,0
+47,17/04/05 22:37,registration,en,outlet,17/04/05 22:37,I represent an Outlet: ,0
+48,17/04/05 22:37,registration,en,outletLink,17/04/05 22:37,Read outlet terms & conditions,0
+50,17/04/05 22:37,registration,en,publisher,17/04/05 22:37,I represent a Publisher: ,0
+51,17/04/05 22:37,registration,en,publisherLink,17/04/05 22:37,Read publisher terms & conditions,0
+53,17/04/05 22:37,registration,en,email,17/04/05 22:37,Email address,0
+54,17/04/05 22:37,registration,en,emailNote,17/04/13 07:45,We'll send important notifications to this address.,0
+55,17/04/05 22:37,registration,en,confirmEmail,17/04/05 22:37,Confirm email address,0
+56,17/04/05 22:37,registration,en,confirmEmailNote,17/04/13 07:45,Please type your email address again to make sure it's correct.,0
+57,17/04/05 22:37,registration,en,firstName,17/04/05 22:37,First name,0
+58,17/04/05 22:37,registration,en,firstNameNote,17/04/13 07:45,Nice to meet you!,0
+59,17/04/05 22:37,registration,en,lastName,17/04/05 22:37,Last name,0
+60,17/04/05 22:37,registration,en,lastNameNote,17/04/13 07:45,Your surname or family name.,0
+61,17/04/05 22:37,registration,en,password,17/04/05 22:37,Password,0
+62,17/04/05 22:37,registration,en,passwordNote,17/04/13 07:45,"Never use passwords that are easy to guess, like 'password' or '1234'.",0
+63,17/04/05 22:37,registration,en,confirmPassword,17/04/05 22:37,Confirm password,0
+64,17/04/05 22:37,registration,en,confirmPasswordNote,17/04/13 07:45,Please type your password again to make sure.,0
+67,17/04/05 22:37,registration,en,websiteAddress,17/04/05 22:37,Website,0
+70,17/04/05 22:37,registration,en,companyDescriptionNote,17/04/05 22:37,We may use this description when promoting you to customers.,0
+71,17/04/05 22:37,registration,en,addressLine1,17/05/03 13:10,Physical address,0
+72,17/04/05 22:37,registration,en,addressLine1Note,17/04/13 07:45,"Outlets: if your address is accurate, we can tell customers where to find you.",0
+73,17/04/05 22:37,registration,en,addressLine2,17/05/03 13:10,Physical address (continued if needed),0
+74,17/04/05 22:37,registration,en,addressLine2Note,17/04/13 07:45,More address detail as needed.,0
+75,17/04/05 22:37,registration,en,addressLine3,17/04/05 22:37,Suburb,0
+76,17/04/05 22:37,registration,en,addressLine3Note,17/04/13 07:45,What part of town?,0
+77,17/04/05 22:37,registration,en,addressLine4,17/04/05 22:37,City/town,0
+78,17/04/05 22:37,registration,en,addressLine4Note,17/04/13 07:45,What city or town are you in or near to?,0
+79,17/04/05 22:37,registration,en,postalCode,17/04/05 22:37,Postal code,0
+80,17/04/05 22:37,registration,en,postalCodeNote,17/04/13 07:45,We need this to send you promotional items from time to time.,0
+81,17/04/05 22:37,registration,en,country,17/04/05 22:37,Country,0
+82,17/04/05 22:37,registration,en,countryNote,17/04/13 07:45,Find your country in the dropdown list.,0
+83,17/04/05 22:37,registration,en,phoneNumber,17/04/05 22:37,Phone number,0
+84,17/04/05 22:37,registration,en,phoneNumberNote,17/04/13 07:45,Please include your full dialling code.,0
+85,17/04/05 22:37,registration,en,currency,17/04/05 22:37,Currency,0
+86,17/04/05 22:37,registration,en,currencyNote,17/04/05 22:37,All prices on the site will be converted into your currency according to daily exchange rates.,0
+87,17/04/05 22:37,registration,en,averagePrintingCost,17/04/13 07:45,Average price per double-sided A4 sheet (outlets only),0
+88,17/04/05 22:37,registration,en,averagePrintingCostNote,18/02/14 10:43,"What do you charge on average per A4 double-sided sheet, black and white? (Enter only numbers, e.g. for 80c, enter 0.80) We use this to suggest your store's customer price for each book.",0
+89,17/04/05 22:37,registration,en,captchaYourAnswer,17/04/05 22:37,Please answer this question: ,0
+90,17/04/05 22:37,registration,en,captchaYourAnswerNote,17/04/05 22:37,"This assures us that you're a person, and your registration isn't spam.",0
+91,17/04/05 22:37,registration,en,newsletterHeading,17/04/05 22:37,Newsletter subscription,0
+92,17/04/05 22:37,registration,en,newsletter,17/04/05 22:37,Subscribe to our newsletter,0
+93,17/04/05 22:37,registration,en,registerButton,17/04/05 22:37,Register,0
+94,17/04/05 23:25,productDetailMetadata,en,secondaryCreators,17/04/05 23:25,Secondary Creators:,0
+95,17/04/06 01:50,contactUsForm,en,heading,17/04/06 01:50,Contact Us,0
+96,17/04/06 01:50,contactUsForm,en,description,17/04/06 01:50,Send us a message here. We'll get back to you as soon as possible.,0
+97,17/04/06 01:50,contactUsForm,en,name,17/04/06 01:50,Name,0
+98,17/04/06 01:50,contactUsForm,en,nameNote,17/04/06 01:50,,0
+99,17/04/06 01:50,contactUsForm,en,email,17/04/06 01:50,Email address,0
+100,17/04/06 01:50,contactUsForm,en,emailNote,17/04/06 01:50,,0
+101,17/04/06 01:50,contactUsForm,en,subject,17/04/06 01:50,Subject,0
+102,17/04/06 01:50,contactUsForm,en,subjectNote,17/04/06 01:50,,0
+103,17/04/06 01:50,contactUsForm,en,message,17/04/06 01:50,Your message,0
+104,17/04/06 01:50,contactUsForm,en,messageNote,17/04/06 01:50,,0
+105,17/04/06 01:50,contactUsForm,en,submitButton,17/04/06 01:50,Send message,0
+106,17/04/06 08:44,profileUpdate,en,outlet,17/04/06 08:44,I represent an Outlet: ,0
+107,17/04/06 08:44,profileUpdate,en,outletLink,17/04/06 08:44,Read outlet terms & conditions,0
+109,17/04/06 08:44,profileUpdate,en,publisher,17/04/06 08:44,I represent a Publisher: ,0
+110,17/04/06 08:44,profileUpdate,en,publisherLink,17/04/06 08:44,Read publisher terms & conditions,0
+112,17/04/06 08:44,profileUpdate,en,firstName,17/04/06 08:44,First name,0
+113,17/04/06 08:44,profileUpdate,en,firstNameNote,17/04/13 07:50,"Thanks, this helps us be friendly when we call.",0
+114,17/04/06 08:44,profileUpdate,en,lastName,17/04/06 08:44,Last name,0
+115,17/04/06 08:44,profileUpdate,en,lastNameNote,17/04/13 07:50,Your surname or family name.,0
+118,17/04/06 08:44,profileUpdate,en,websiteAddress,17/04/06 08:44,Website,0
+121,17/04/06 08:44,profileUpdate,en,companyDescriptionNote,17/04/06 08:44,We may use this description when promoting you to customers.,0
+122,17/04/06 08:44,profileUpdate,en,phoneNumber,17/04/06 08:44,Phone number,0
+123,17/04/06 08:44,profileUpdate,en,phoneNumberNote,17/04/13 07:50,Please include your full dialling code.,0
+124,17/04/06 08:44,profileUpdate,en,currency,17/04/06 08:44,What currency do you use?,0
+125,17/04/06 08:44,profileUpdate,en,currencyNote,17/04/06 08:44,All prices on the site will be converted into your currency according to daily exchange rates.,0
+126,17/04/06 08:44,profileUpdate,en,averagePrintingCost,17/04/13 07:50,Average price per double-sided A4 sheet (outlets only),0
+127,17/04/06 08:44,profileUpdate,en,averagePrintingCostNote,18/02/14 10:45,"What do you charge on average per A4 double-sided sheet, black and white? (Enter only numbers, e.g. for 80c, enter 0.80) We use this to suggest your store's customer price for each book.",0
+128,17/04/06 08:44,profileUpdate,en,addressLine1,17/05/03 13:10,Physical address,0
+129,17/04/06 08:44,profileUpdate,en,addressLine1Note,17/04/13 07:50,"Outlets: if your address is accurate, we can tell customers where to find you.",0
+130,17/04/06 08:44,profileUpdate,en,addressLine2,17/05/03 13:10,Physical address (continued if needed),0
+131,17/04/06 08:44,profileUpdate,en,addressLine2Note,17/04/13 07:50,More address detail as needed.,0
+132,17/04/06 08:44,profileUpdate,en,addressLine3,17/04/06 08:44,Suburb,0
+133,17/04/06 08:44,profileUpdate,en,addressLine3Note,17/04/13 07:50,What part of town?,0
+134,17/04/06 08:44,profileUpdate,en,addressLine4,17/04/06 08:44,City/town,0
+135,17/04/06 08:44,profileUpdate,en,addressLine4Note,17/04/13 07:50,What city or town are you in or near to?,0
+136,17/04/06 08:44,profileUpdate,en,postalCode,17/04/06 08:44,Postal code,0
+137,17/04/06 08:44,profileUpdate,en,postalCodeNote,17/04/13 07:50,We need this to send you promotional items from time to time.,0
+138,17/04/06 08:44,profileUpdate,en,country,17/04/06 08:44,Country,0
+139,17/04/06 08:44,profileUpdate,en,countryNote,17/04/13 07:50,Find your country in the dropdown list.,0
+140,17/04/06 08:44,profileUpdate,en,newsletterHeading,17/04/06 08:44,Newsletter subscription,0
+141,17/04/06 08:44,profileUpdate,en,newsletter,17/04/13 07:50,Subscribe to our newsletter.,0
+142,17/04/06 08:44,profileUpdate,en,updateButton,17/04/06 08:44,Save details,0
+655,17/04/06 08:44,profileUpdate,en,websiteAddressNote,18/08/20 11:50,If you have a website. We may use this when we advertise.,0
+146,17/04/06 10:19,productDetailLoggedIn,en,customerDetailsFirstName,17/04/06 10:19,Please enter a first name,0
+147,17/04/06 10:19,productDetailLoggedIn,en,customerDetailsLastName,17/04/06 10:19,Please enter a last name,0
+148,17/04/06 10:19,productDetailLoggedIn,en,customerDetailsPhoneNumber,17/04/06 10:19,Please enter a phone number,0
+149,17/04/06 10:19,productDetailLoggedIn,en,customerDetailsNumberOfCopies,17/04/06 10:19,How many copies do they need?,0
+150,17/04/06 10:19,productDetailLoggedIn,en,customerDetailsLayout,17/04/06 10:19,Select document layout,0
+151,17/04/06 10:19,productDetailLoggedIn,en,twoUpDownloadPreview,17/06/12 14:06,Download free preview,0
+152,17/04/06 10:19,productDetailLoggedIn,en,priceYouPayCredits,18/01/29 11:22,Paperight fee in credits,0
+656,17/04/06 08:44,profileUpdate,en,companyDescription,18/08/20 11:50,Describe your organisation in one sentence.,0
+154,17/04/06 10:19,productDetailLoggedIn,en,priceCustomerTotal,17/06/20 12:23,Suggested customer price,0
+155,17/04/06 10:19,productDetailLoggedIn,en,buttonBuyNow,17/04/06 10:19,buy now,0
+156,17/04/06 10:19,productDetailLoggedIn,en,licenceTerms,17/04/06 10:19,Read licence terms,0
+157,17/04/06 14:23,forgotPasswordForm,en,heading,17/04/06 14:23,Forgot your Password?,0
+158,17/04/06 14:23,forgotPasswordForm,en,description,17/04/06 14:23,Please fill in your email address and we'll send you a link to reset your password.,0
+159,17/04/06 14:23,forgotPasswordForm,en,email,17/04/06 14:23,Email Address,0
+160,17/04/06 14:23,forgotPasswordForm,en,button,17/04/06 14:23,Recover,0
+161,17/04/09 10:36,productDetailMetadata,en,ownerCompany,17/04/09 10:36,Owner Company:,0
+162,17/04/09 10:36,productDetailMetadata,en,updateButton,17/09/07 11:12,Edit product metadata,0
+163,17/04/09 16:33,productDetailLoggedIn,en,oneUpDownloadPreview,17/06/12 14:06,Download free preview,0
+164,17/04/13 08:06,loggedInHeader,en,dashboardLink,17/04/13 08:20,Sales,0
+165,17/04/13 08:06,loggedInHeader,en,profileLink,17/04/13 08:20,Settings,0
+166,17/04/13 08:06,loggedInHeader,en,logOutLink,17/04/13 08:06,Log out,0
+167,17/04/27 13:22,productDetailMetadata,en,secondaryLanguages,17/04/27 13:22,Other language(s):,0
+169,17/04/30 15:40,loginPanel,en,findOutletButton,17/06/06 09:39,Find your nearest outlet,0
+170,17/04/30 15:40,loginPanel,en,loginButtonHeading,17/04/30 15:40,Outlets / Publishers,0
+171,17/04/30 15:40,loginPanel,en,loginButton,17/04/30 15:40,Business Login,0
+172,17/04/30 15:40,loginPanel,en,registerLink,17/04/30 15:40,Register your business,0
+173,17/04/30 15:41,productDetail,en,downloadCoverImageLink,17/04/30 15:41,Download high-res image,0
+174,17/05/01 00:25,loggedInHeader,en,impersonateUserLink,17/05/01 00:25,Log in as a different user,0
+175,17/05/01 00:25,loggedInHeader,en,topupButton,17/05/01 00:25,Top up,0
+176,17/05/06 20:16,footer,en,needHelp,17/05/06 20:16,"<h3>Need help?</h3> Visit <a href=""http://help.paperight.com"" target=""_blank"">help.paperight.com</a> Phone <em >+27 21 671 1278</em> Email <a href=""mailto:team@paperight.com"">team@paperight.com</a>",0
+178,17/05/06 20:16,footer,en,contactUsLink,17/05/06 20:16,Contact us,0
+179,17/05/06 20:16,footer,en,aboutUsLink,17/05/06 20:16,About us,0
+180,17/05/06 20:16,footer,en,outletTermsLink,17/05/06 20:16,Outlet terms and conditions,0
+181,17/05/06 20:16,footer,en,publisherTermsLink,17/05/06 20:16,Publisher terms and conditions,0
+182,17/05/06 20:16,footer,en,blogLink,17/05/06 20:16,Read our blog,0
+183,17/05/06 20:16,footer,en,subscribeNewsletterLink,17/05/06 20:16,Subscribe to our newsletter,0
+184,17/05/06 20:16,footer,en,privacyPolicyLink,17/05/06 20:16,Privacy policy,0
+185,17/05/06 20:26,search,en,navigators,17/10/29 10:18,"																																				<h3>Browse</h3>
+
+<ul>
+	<li><a href=""/search/advanced?tags=papercatbio"">Biographies & Memoirs</a></li>
+	<li><a href=""/search/advanced?tags=papercatbus"">Business & Investing</a></li>
+	<li><a href=""/search/advanced?tags=papercatchild"">Children's Books</a></li>
+	<li><a href=""/search/advanced?tags=papercatcomic"">Comics & Graphic Novels</a></li>
+	<li><a href=""/search/advanced?tags=papercatcomp"">Computers & Technology</a></li>
+	<li><a href=""/search/advanced?tags=papercatfic"">Fiction</a></li>
+	<li><a href=""/search/advanced?tags=papercatedu"">Education & Reference</a>
+		<ul>
+			<li><a href=""/search/advanced?tags=papercatstudyguide"">High-school study guides</a></li>
+			<li><a href=""/search/advanced?tags=papercathstextbook"">High school textbooks</a></li>
+			<li><a href=""/search/advanced?tags=01C"">Matric Exam Packs (multi year)</a></li>
+			<li><a href=""/search/advanced?tags=02C"">Matric Exam Packs (single year)</a></li>
+			<li><a href=""/search/advanced?tags=papercatcoursereaders"">Self-study/Tertiary course readers</a></li>
+			<li><a href=""/search/advanced?tags=papercatworksheets"">Activity books</a></li>
+		</ul>
+	</li>
+	<li><a href=""/search/advanced?tags=papercatlang"">Foreign language study</a>
+	<li><a href=""/search/advanced?tags=papercathealth"">Health, Fitness & Dieting</a></li>
+	<li><a href=""/search/advanced?tags=papercathist"">History</a></li>
+	<li><a href=""/search/advanced?tags=papercatlaw"">Law</a></li>
+	<li><a href=""/search/advanced?tags=papercatmed"">Medical Books</a></li>
+	<li><a href=""/search/advanced?tags=papercatmusic"">Music</a>
+		<ul>
+			<li><a href=""/search/advanced?tags=AVQ"">Sheet Music</a></li>
+		</ul>
+	</li>
+	<li><a href=""/search/advanced?tags=papercatthrill"">Mystery, Thriller & Suspense</a></li>
+	<li><a href=""/search/advanced?tags=papercatparent"">Parenting & Relationships</a></li>
+	<li><a href=""/search/advanced?tags=papercatplay"">Plays</a></li>
+	<li><a href=""/search/advanced?tags=papercatpoet"">Poetry</a></li>
+	<li><a href=""/search/advanced?tags=papercatpol"">Politics & Social Sciences</a></li>
+	<li><a href=""/search/advanced?tags=papercatrel"">Religion & Spirituality</a>
+		<ul>
+			<li><a href=""/search/advanced?tags=papercatchrist"">Christian Books & Bibles</a></li>
+		</ul>
+	</li>
+	<li><a href=""/search/advanced?tags=papercatrom"">Romance</a></li>
+	<li><a href=""/search/advanced?tags=papercatscifi"">Science Fiction & Fantasy</a></li>
+	<li><a href=""/search/advanced?tags=papercatself"">Self-Help</a></li>
+	<li><a href=""/search/advanced?tags=papercatteens"">Teens</a></li>
+	<li><a href=""/search/advanced?tags=papercattravel"">Travel</a></li>
+</ul>",1
+186,17/05/07 06:09,loggedInHeader,en,welcome-message-pre,17/05/07 06:09,"Welcome back,",0
+187,17/05/07 06:09,loggedInHeader,en,welcome-message-post,17/05/07 06:09,.,0
+188,17/05/07 06:09,topupPanel,en,credits-pre,17/05/07 06:09,You have,0
+189,17/05/07 06:09,topupPanel,en,credits-post,17/05/07 06:09,credits,0
+190,17/05/07 06:09,topupPanel,en,approx-currency-pre,17/05/07 06:09,( That's about,0
+191,17/05/07 06:09,topupPanel,en,approx-currency-post,17/05/07 06:09,),0
+192,17/05/07 06:09,topupPanel,en,topupButton,17/05/07 06:09,Top up,0
+193,17/05/07 08:50,productDetailLoggedIn,en,a5DownloadPreview,17/06/12 14:06,Download free preview,0
+194,17/05/07 09:18,loggedInHeader,en,logOutImpersonateLink,17/05/07 09:18,Log out of,0
+195,17/05/07 09:18,loggedInHeader,en,impersonateWarningMessage,17/07/01 18:00,You are logged in as someone else. Please make sure you are logged into the correct account.,0
+196,17/05/07 09:18,topupPanel,en,credits-impersonate-name-pre,17/05/07 09:18,,0
+197,17/05/07 09:18,topupPanel,en,credits-impersonate-name-post,17/05/07 09:18,has,0
+198,17/05/07 09:18,topupPanel,en,credits-impersonate-pre,17/05/07 09:18,,0
+199,17/05/07 09:18,topupPanel,en,credits-impersonate-post,17/05/07 09:18,credits,0
+200,17/05/08 10:40,product-detail-licences,en,dialog-cancel-licence-question,17/05/08 10:40,Remove this item?,0
+201,17/05/08 10:40,product-detail-licences,en,dialog-cancel-licence-title,17/05/08 10:40,Cancel licence,0
+202,17/05/08 10:40,product-detail-licences,en,dialog-cancel-licence-button-cancel,17/05/08 10:40,Cancel,0
+203,17/05/08 10:40,product-detail-licences,en,dialog-cancel-licence-button-ok,17/05/08 10:40,OK,0
+204,17/05/08 10:40,product-detail-licences,en,dialog-reset-licence-question,17/05/08 10:40,Reset this licence?,0
+205,17/05/08 10:40,product-detail-licences,en,dialog-reset-licence-title,17/05/08 10:40,Reset licence,0
+206,17/05/08 10:40,product-detail-licences,en,dialog-reset-licence-button-cancel,17/05/08 10:40,Cancel,0
+207,17/05/08 10:40,product-detail-licences,en,dialog-reset-licence-button-ok,17/05/08 10:40,OK,0
+208,17/05/08 10:40,product-detail-licences,en,dialog-generate-licence-generating,17/06/27 09:09,Getting your document ready…,0
+209,17/05/08 10:40,product-detail-licences,en,dialog-generate-licence-title,17/06/27 09:09,Your document will now download.,0
+210,17/05/08 10:40,product-detail-licences,en,dialog-generate-licence-generated,17/06/27 09:09,"REMEMBER: You may print only as many copies as you purchased. Delete the PDF after you have printed it, and do not give it to anyone – it's only for you to print once.",0
+211,17/05/08 10:40,product-detail-licences,en,dialog-generate-licence-button-ok,17/05/08 10:40,OK,0
+212,17/05/08 10:40,product-detail-licences,en,dialog-preview-message,17/05/08 10:40,Preview will start shortly. You may close this window at any time.,0
+213,17/05/08 10:40,product-detail-licences,en,dialog-preview-title,17/05/08 10:40,Preview,0
+214,17/05/08 10:40,product-detail-licences,en,dialog-preview-button-ok,17/05/08 10:40,OK,0
+215,17/05/08 10:40,product-detail-licences,en,dialog-confirm-email-message-sending,17/05/08 10:40,Sending confirmation email...,0
+216,17/05/08 10:40,product-detail-licences,en,dialog-confirm-email-title,17/05/08 10:40,Confirmation email,0
+217,17/05/08 10:40,product-detail-licences,en,dialog-confirm-email-message-sent,17/05/08 10:40,"Please check your email, we have sent you a confirmation message that you must click to confirm your email address.",0
+218,17/05/08 10:40,product-detail-licences,en,dialog-confirm-email-button-ok,17/05/08 10:40,OK,0
+219,17/05/08 10:40,product-detail-licences,en,dialog-purchasing-licence-message-purchasing,17/06/27 09:09,"Purchasing, please wait...",0
+220,17/05/08 10:40,product-detail-licences,en,dialog-purchasing-licence-title,17/06/27 09:09,Licence purchased! Scroll down to download.,0
+221,17/05/08 10:40,product-detail-licences,en,dialog-purchasing-licence-message-purchased,17/06/27 09:09,"REMEMBER: You may print only as many copies as you purchased. If you need to make another copy, you must buy another licence.",0
+222,17/05/08 10:40,product-detail-licences,en,dialog-purchasing-licence-button-ok,17/05/08 10:40,OK,0
+223,17/05/08 10:40,validation,en,required,17/05/08 10:40,This field is required,0
+224,17/05/08 10:41,product-detail-licences,en,grid-credits-heading,17/05/08 10:41,Credits,0
+225,17/05/08 10:41,product-detail-licences,en,grid-charged-to-customers-heading,17/05/08 10:41,Charged to customers,0
+226,17/05/08 10:41,product-detail-licences,en,grid-customer-heading,17/05/08 10:41,Customer,0
+227,17/05/08 10:41,product-detail-licences,en,grid-date-heading,17/05/08 10:41,Date,0
+228,17/05/08 10:41,product-detail-licences,en,grid-layout-heading,17/05/08 10:41,Layout,0
+229,17/05/08 10:41,product-detail-licences,en,grid-licence-fees-heading,17/05/08 10:41,Total<br />licence fees,0
+230,17/05/08 10:41,product-detail-licences,en,grid-print-costs-heading,17/05/08 10:41,Total<br />print costs,0
+231,17/05/08 10:41,product-detail-licences,en,grid-total-charged-heading,17/05/08 10:41,Total<br />you charged,0
+232,17/05/08 10:41,product-detail-licences,en,grid-document-status-heading,17/05/08 10:41,Document status,0
+233,17/05/08 10:41,product-detail-licences,en,no-licences,17/05/08 10:41,No licences,0
+234,17/05/08 13:28,notifications,en,login-failed,17/05/08 13:28,"Your login attempt was not successful, try again.",0
+235,17/05/08 13:49,product-detail-licences,en,download-button,17/05/08 13:49,Download,0
+236,17/05/08 13:49,product-detail-licences,en,cancel-link,17/05/08 13:49,Cancel,0
+237,17/05/08 13:49,product-detail-licences,en,downloaded,17/05/08 13:49,Downloaded,0
+238,17/05/08 13:49,product-detail-licences,en,feedback-link,17/05/08 13:49,(feedback),0
+239,17/05/08 13:49,suggestBookWidget,en,ok-button,17/05/08 13:49,OK,0
+240,17/05/08 13:49,searchResults,en,results-search-term,17/05/08 13:49,Results for,0
+241,17/05/08 13:49,searchResults,en,item-count-pre,17/05/08 13:49,Found,0
+242,17/05/08 13:49,searchResults,en,item-count-post,17/05/08 13:49,results,0
+243,17/05/08 13:49,searchResults,en,current-page-pre,17/05/08 13:49,Page,0
+244,17/05/08 13:49,searchResults,en,current-page-post,17/05/08 13:49,of,0
+245,17/05/08 13:49,searchResults,en,paginatorPrevious,17/05/08 13:49,Previous,0
+246,17/05/08 13:49,searchResults,en,paginatorNext,17/05/08 13:49,Next,0
+247,17/05/08 13:49,searchResult,en,primaryCreators,17/05/08 13:49,Primary Creators:,0
+248,17/05/08 13:49,searchResult,en,publisher,17/05/08 13:49,Publisher/owner:,0
+249,17/05/08 13:49,searchResult,en,publicationDate,17/05/08 13:49,First published:,0
+250,17/05/08 13:49,searchResult,en,pages,17/05/08 13:49,Pages:,0
+251,17/05/08 13:49,searchResult,en,creditsText,17/05/08 13:49,credits per copy-licence,0
+252,17/05/08 13:49,searchResult,en,creditsAboutText,17/08/09 07:21,Excl. print costs: ,0
+253,17/05/08 13:49,searchResult,en,viewProductButton,17/08/09 07:38,See details,0
+254,17/05/08 13:49,searchResults,en,amazon-header,17/06/06 09:38,Don't we have what you're looking for? Suggest a book on the left.,0
+255,17/05/08 13:55,publisherEarningSummary,en,heading,17/11/05 09:45,Publisher earnings,0
+256,17/05/08 13:55,publisher-earning-search-panel,en,status-label,17/11/05 09:46,Select status,0
+257,17/05/08 13:55,publisher-earning-search-panel,en,from-date-label,17/05/08 13:55,From date,0
+258,17/05/08 13:55,publisher-earning-search-panel,en,to-date-label,17/05/08 13:55,To date,0
+259,17/05/08 13:55,publisher-earning-search-panel,en,search-button,17/11/05 09:46,Filter earnings,0
+260,17/05/08 13:55,publisherEarningSummary,en,earnings-pending-header,17/05/08 13:55,Earnings pending,0
+261,17/05/08 13:55,publisherEarningSummary,en,earnings-requested-header,17/05/08 13:55,Earnings requested,0
+262,17/05/08 13:55,publisherEarningSummary,en,earnings-paid-header,17/05/08 13:55,Earnings paid,0
+263,17/05/08 13:55,publisherEarningSummary,en,earnings-total-header,17/05/08 13:55,Earnings total,0
+264,17/05/08 13:55,publisher-earnings,en,latest-earnings-heading,17/05/08 13:55,Latest earnings,0
+265,17/05/08 13:55,publisher-earnings,en,grid-product-heading,17/05/08 13:55,Product,0
+266,17/05/08 13:55,publisher-earnings,en,grid-date-heading,17/05/08 13:55,Date,0
+267,17/05/08 13:55,publisher-earnings,en,grid-amount-heading,17/05/08 13:55,Amount,0
+268,17/05/08 13:55,publisher-earnings,en,grid-status-heading,17/05/08 13:55,Status,0
+269,17/05/08 13:55,licence-summary,en,heading,17/08/01 19:40,Your outlet's licences,0
+270,17/05/08 13:55,licence-search-form,en,first-name-label,17/05/08 13:55,Customer first name,0
+271,17/05/08 13:55,licence-search-form,en,last-name-label,17/05/08 13:55,Customer last name,0
+272,17/05/08 13:55,licence-search-form,en,phone-number-label,17/05/08 13:55,Customer phone number,0
+273,17/05/08 13:55,licence-search-form,en,button,17/05/08 13:55,Search licences,0
+274,17/05/08 13:55,licence-summary,en,grid-grand-totals-heading,17/05/08 13:55,Grand totals,0
+275,17/05/08 13:55,licence-summary,en,grid-transactions-heading,17/05/08 13:55,Transactions,0
+276,17/05/08 13:55,licence-summary,en,grid-copies-heading,17/05/08 13:55,Copies,0
+277,17/05/08 13:55,licence-summary,en,grid-credits-heading,17/05/08 13:55,Credits,0
+278,17/05/08 13:55,licence-summary,en,grid-currency-heading,17/05/08 13:55,Currency,0
+279,17/05/08 13:55,licence-summary,en,grid-licence-fees-charged-heading,17/05/08 13:55,Licence fees charged,0
+280,17/05/08 13:55,licence-summary,en,grid-printing-costs-charged-heading,17/05/08 13:55,Printing costs charged,0
+281,17/05/08 13:55,licence-summary,en,grid-total-charged-heading,17/05/08 13:55,Total charged to customers,0
+282,17/05/08 13:55,latest-licences,en,heading,17/05/08 13:55,Latest transactions,0
+283,17/05/08 13:55,licence-search,en,grid-credits-heading,17/05/08 13:55,Credits,0
+284,17/05/08 13:55,licence-search,en,grid-charged-to-customers-heading,17/05/08 13:55,Charged to customers,0
+285,17/05/08 13:55,licence-search,en,grid-product-heading,17/05/08 13:55,Product,0
+286,17/05/08 13:55,licence-search,en,grid-total-copies-heading,17/05/08 13:55,Total<br />Copies,0
+287,17/05/08 13:55,licence-search,en,grid-date-heading,17/05/08 13:55,Date,0
+288,17/05/08 13:55,licence-search,en,grid-layout-heading,17/05/08 13:55,Layout,0
+289,17/05/08 13:55,licence-search,en,grid-total-credits-heading,17/05/08 13:55,Total<br />credits used,0
+290,17/05/08 13:55,licence-search,en,grid-total-licence-fees-heading,17/05/08 13:55,Total<br />licence fees,0
+291,17/05/08 13:55,licence-search,en,grid-total-print-costs-heading,17/05/08 13:55,Total<br />print costs,0
+292,17/05/08 13:55,licence-search,en,grid-total-charged-heading,17/05/08 13:55,Total<br />you charged,0
+293,17/05/08 13:55,licence-search,en,view-all-link,18/01/23 14:16,See all books licensed,0
+294,17/05/08 13:55,product-detail-licences,en,reset-link,17/05/08 13:55,Reset,0
+295,17/05/08 14:01,account-information,en,heading,17/05/08 14:01,Account Information,0
+296,17/05/08 14:01,account-information,en,email,17/05/08 14:01,Email,0
+297,17/05/08 14:01,account-information,en,change-email-button,17/05/08 14:01,Change email address,0
+298,17/05/08 14:01,account-information,en,business-name,17/05/08 14:01,Business name,0
+299,17/05/08 14:01,account-information,en,website,17/05/08 14:01,Website,0
+300,17/05/08 14:01,account-information,en,address,17/05/08 14:01,Address,0
+301,17/05/08 14:01,account-information,en,phone-number,17/05/08 14:01,Phone number,0
+302,17/05/08 14:01,account-information,en,currency,17/05/08 14:01,Currency,0
+303,17/05/08 14:01,account-information,en,edit-details-button,17/05/08 14:01,Edit your details,0
+304,17/05/08 14:01,account-information,en,change-password-button,17/05/08 14:01,Change password,0
+305,17/05/08 14:01,account-information,en,close-account-button,17/05/08 14:01,Close account,0
+306,17/05/08 14:01,company-management,en,heading,17/05/08 14:01,Company Management,0
+307,17/05/08 14:01,company-management,en,edit-company-button,17/05/08 14:01,Edit,0
+308,17/05/08 14:01,company-management,en,add-company-button,17/05/08 14:01,Add company,0
+309,17/05/08 14:01,company-management,en,add-user-button,17/05/08 14:01,Add user,0
+310,17/05/08 14:01,company-management,en,delete-company-link,17/05/08 14:01,Delete,0
+311,17/05/08 14:01,company-management,en,edit-button-link,17/05/08 14:01,Edit,0
+312,17/05/08 14:01,edit-company-user-form,en,company-administrator,17/05/08 14:01,Company Administrator,0
+313,17/05/08 14:01,edit-company-user-form,en,company-administrator-note,17/05/08 14:01,"Company administrators can add, remove and update companies and users.",0
+314,17/05/08 14:01,edit-company-user-form,en,email,17/05/08 14:01,Email address,0
+315,17/05/08 14:01,edit-company-user-form,en,email-note,17/05/08 14:01,,0
+316,17/05/08 14:01,general,en,required,17/05/08 14:01,* Required,0
+317,17/05/08 14:01,edit-company-user-form,en,confirm-email,17/05/08 14:01,Confirm email address,0
+318,17/05/08 14:01,edit-company-user-form,en,confirm-email-note,17/05/08 14:01,,0
+319,17/05/08 14:01,edit-company-user-form,en,first-name,17/05/08 14:01,First name,0
+320,17/05/08 14:01,edit-company-user-form,en,first-name-note,17/05/08 14:01,,0
+321,17/05/08 14:01,edit-company-user-form,en,last-name,17/05/08 14:01,Last name,0
+322,17/05/08 14:01,edit-company-user-form,en,last-name-note,17/05/08 14:01,,0
+323,17/05/08 14:01,edit-company-form,en,company-name,17/05/08 14:01,Company name,0
+324,17/05/08 14:01,edit-company-form,en,company-name-note,17/05/08 14:01,,0
+325,17/05/08 14:01,edit-company-form,en,company-description,17/05/08 14:01,Company description,0
+326,17/05/08 14:01,edit-company-form,en,company-description-note,17/05/08 14:01,,0
+327,17/05/08 14:01,edit-company-form,en,website,17/05/08 14:01,Website,0
+328,17/05/08 14:01,edit-company-form,en,website-note,17/05/08 14:01,If you have a website. We may use this when we advertise to customers.,0
+329,17/05/08 14:01,edit-company-form,en,address-line-2,17/05/08 14:01,Physical address line 1,0
+330,17/05/08 14:01,edit-company-form,en,address-line-1-note,17/05/08 14:01,"Outlets: if your address we accurate, we can include it on our outlets map.",0
+331,17/05/08 14:01,edit-company-form,en,address-line-2-note,17/05/08 14:01,,0
+332,17/05/08 14:01,edit-company-form,en,suburb,17/05/08 14:01,Suburb,0
+333,17/05/08 14:01,edit-company-form,en,suburb-note,17/05/08 14:01,,0
+334,17/05/08 14:01,edit-company-form,en,city-town,17/05/08 14:01,City/town,0
+335,17/05/08 14:01,edit-company-form,en,city-town-note,17/05/08 14:01,,0
+336,17/05/08 14:01,edit-company-form,en,postal-code,17/05/08 14:01,Postal code,0
+337,17/05/08 14:01,edit-company-form,en,postal-code-note,17/05/08 14:01,,0
+338,17/05/08 14:01,edit-company-form,en,country,17/05/08 14:01,Country,0
+339,17/05/08 14:01,edit-company-form,en,country-note,17/05/08 14:01,,0
+340,17/05/08 14:01,edit-company-form,en,phone-number,17/05/08 14:01,Phone number,0
+341,17/05/08 14:01,edit-company-form,en,phone-number-note,17/05/08 14:01,,0
+342,17/05/08 14:01,company-management,en,delete-user-link,17/05/08 14:01,Delete,0
+343,17/05/08 14:01,company-management,en,dialog-delete-company-user-question,17/05/08 14:01,Are you sure you want to remove this user?,0
+344,17/05/08 14:01,company-management,en,dialog-delete-company-user-title,17/05/08 14:01,Delete company,0
+345,17/05/08 14:01,company-management,en,dialog-delete-company-user-button-no,17/05/08 14:01,No,0
+346,17/05/08 14:01,company-management,en,dialog-delete-company-user-button-yes,17/05/08 14:01,Yes,0
+347,17/05/08 14:01,company-management,en,dialog-deleting-company-user-message-deleting,17/05/08 14:01,Please wait...,0
+348,17/05/08 14:01,company-management,en,dialog-deleting-company-user-title,17/05/08 14:01,Removing User,0
+349,17/05/08 14:01,company-management,en,dialog-deleting-company-user-message-deleted,17/05/08 14:01,User has been removed successfully,0
+350,17/05/08 14:01,company-management,en,dialog-deleting-company-user-button-ok,17/05/08 14:01,OK,0
+351,17/05/08 14:01,company-management,en,dialog-delete-company-question,17/05/08 14:01,Are you sure you want to remove this company?,0
+352,17/05/08 14:01,company-management,en,dialog-delete-company-title,17/05/08 14:01,Delete company,0
+353,17/05/08 14:01,company-management,en,dialog-delete-company-button-no,17/05/08 14:01,No,0
+354,17/05/08 14:01,company-management,en,dialog-delete-company-button-yes,17/05/08 14:01,Yes,0
+355,17/05/08 14:01,company-management,en,dialog-deleting-company-message-deleting,17/05/08 14:01,Please wait...,0
+356,17/05/08 14:01,company-management,en,dialog-deleting-company-title,17/05/08 14:01,Removing Company,0
+357,17/05/08 14:01,company-management,en,dialog-deleting-company-message-deleted,17/05/08 14:01,Company has been removed successfully,0
+358,17/05/08 14:01,company-management,en,dialog-deleting-company-button-ok,17/05/08 14:01,OK,0
+359,17/05/08 14:01,edit-company-user-form,en,title-new-user,17/05/08 14:01,New User,0
+360,17/05/08 14:01,edit-company-user-form,en,button-cancel,17/05/08 14:01,Cancel,0
+361,17/05/08 14:01,edit-company-user-form,en,button-add,17/05/08 14:01,Add,0
+362,17/05/08 14:01,edit-company-user-form,en,title-edit-user,17/05/08 14:01,Edit User,0
+363,17/05/08 14:01,edit-company-user-form,en,button-update,17/05/08 14:01,Update,0
+364,17/05/08 14:01,edit-company-form,en,title-new-company,17/05/08 14:01,New Company,0
+365,17/05/08 14:01,edit-company-form,en,button-cancel,17/05/08 14:01,Cancel,0
+366,17/05/08 14:01,edit-company-form,en,button-add,17/05/08 14:01,Add,0
+367,17/05/08 14:01,edit-company-form,en,title-edit-company,17/05/08 14:01,Edit Company,0
+368,17/05/08 14:01,edit-company-form,en,button-update,17/05/08 14:01,Update,0
+369,17/05/08 14:01,edit-company-form,en,dialog-saving-message-saving,17/05/08 14:01,Please wait...,0
+370,17/05/08 14:01,edit-company-form,en,dialog-saving-title,17/05/08 14:01,Saving Company,0
+371,17/05/08 14:01,edit-company-form,en,dialog-saving-message-saved,17/05/08 14:01,Company saved successfully,0
+372,17/05/08 14:01,edit-company-form,en,dialog-saving-button-ok,17/05/08 14:01,Ok,0
+373,17/05/08 14:01,edit-company-user-form,en,dialog-saving-message-saving,17/05/08 14:01,Please wait...,0
+374,17/05/08 14:01,edit-company-user-form,en,dialog-saving-message-saved,17/05/08 14:01,User saved successfully,0
+375,17/05/08 14:01,edit-company-user-form,en,dialog-saving-saved-message-new-user-additional,17/05/08 14:01,The new user will receive an email to set their password. Please make sure they check their email.,0
+376,17/05/08 14:01,edit-company-user-form,en,dialog-saving-button-ok,17/05/08 14:01,OK,0
+377,17/05/08 14:01,account-information,en,dialog-close-account-question,17/05/08 14:01,Are you sure you want to close your account?,0
+378,17/05/08 14:01,account-information,en,dialog-close-account-title,17/05/08 14:01,Close account,0
+379,17/05/08 14:01,account-information,en,dialog-close-account-button-no,17/05/08 14:01,No,0
+380,17/05/08 14:01,account-information,en,dialog-close-account-button-yes,17/05/08 14:01,Yes,0
+381,17/05/08 14:04,searchResults,en,results-no-search-term,17/05/08 14:04,Results,0
+382,17/05/08 14:04,product-detail-licences,en,cancelled,17/05/08 14:04,Cancelled,0
+383,17/05/08 14:06,searchResults,en,amazon-no-results,17/05/08 14:06,No results,0
+384,17/05/08 14:09,notifications,en,impersonate-no-user-found-error,17/05/08 14:09,"Sorry, that email address isn't registered with us. Please check that you're logging in with the email address you registered with. If you haven't registered yet, do that now, it's free and quick.",0
+385,17/05/08 14:11,account-information,en,publisher-payment-details,17/05/08 14:11,Publisher payment details,0
+386,17/05/08 14:11,account-information,en,payment-details,17/05/08 14:11,Payment method:,0
+387,17/05/08 14:11,account-information,en,change-payment-details-button,17/05/08 14:11,Change payment details,0
+388,17/05/08 14:11,account-information,en,disable-account-button,17/05/08 14:11,Disable account,0
+484,17/05/15 08:13,email-template-publisher-payment-request,en,subject,17/05/15 08:13,Publisher Payment Request,0
+485,17/05/15 08:13,email-template-publisher-payment-request,en,content,17/05/16 19:17,"			<div>
+	<dl>
+		<dt>Company</dt>
+		<dd>${publisherPaymentRequest.company.name}</dd>
+	</dl>
+	<dl>
+		<dt>Link</dt>
+		<dd><a href=""${publisherPaymentRequestUrl}"">${publisherPaymentRequestUrl}</a></dd>
+	</dl>
+</div>",1
+486,17/05/15 08:27,email-template-paperight-credit-transaction-payment-received,en,subject,17/05/15 08:27,Paperight credit payment confirmation,0
+482,17/05/15 08:07,email-template-new-user,en,subject,17/05/15 08:07,Welcome to Paperight,0
+483,17/05/15 08:07,email-template-new-user,en,content,17/05/16 19:10,"			<p>Hi $user.firstName</p>
+
+<p>Your company administrator has created an account on Paperight for you. </p>
+
+<p>You're registered as: $user.username</p>
+
+<p>To use your account, you first need to set your password. Click the link below to set your password.</p>
+
+<p><a href=""$resetPasswordUrl"">$resetPasswordUrl</a></p>
+
+<p>Any questions, just mail us back, or call us on +27 21 671 1278.</p>
+
+<p>Best wishes</p>
+
+<p>The Paperight team</p>",1
+393,17/05/08 15:48,activation-successful,en,activation-successful,17/11/12 14:44,"						<h1>Account activation successful</h1>
+<p>Thank you!</p>
+<p>You have confirmed your email address and your account is now fully active.</p>
+<p>Find books in the search bar above, or <a href=""/account"">check your settings.</a></p>",1
+488,17/05/15 14:12,email-template-reset-password,en,subject,17/05/15 14:12,Reset your password on Paperight,0
+487,17/05/15 08:27,email-template-paperight-credit-transaction-payment-received,en,content,17/05/16 19:13,"<p>Hi $user.firstName</p>
+
+<p>Thank you for topping up your Paperight credit balance. We have received your payment, and have credited your Paperight balance with $transaction.numberOfCredits credits.</p>
+
+<p>Any questions, please email us at <a href=""mailto:team@paperight.com"">team@paperight.com</a> or give us a call on +27 21 671 1278.</p>
+
+<p>Best wishes</p>
+
+<p>The Paperight team</>",1
+396,17/05/08 15:48,notifications,en,forgot-password-reset-email-sent,17/05/08 15:48,Password reset request successful! An email has been sent.,0
+397,17/05/08 15:49,reset-password-form,en,heading,17/05/08 15:49,Password Reset,0
+398,17/05/08 15:49,reset-password-form,en,new-password,17/05/08 15:49,New password,0
+399,17/05/08 15:49,reset-password-form,en,new-password-note,17/05/08 15:49,,0
+400,17/05/08 15:49,reset-password-form,en,confirm-new-password,17/05/08 15:49,Confirm password,0
+401,17/05/08 15:49,reset-password-form,en,confirm-new-password-note,17/05/08 15:49,,0
+402,17/05/08 15:49,reset-password-form,en,button,17/05/08 15:49,Reset,0
+403,17/05/08 15:49,notifications,en,password-reset-success,17/05/08 15:49,Password reset successful. You can now log in with your username and new password.,0
+404,17/05/08 15:58,contactUsForm,en,view-map-button,17/05/08 15:58,View larger map,0
+405,17/05/08 15:58,contactUsForm,en,address,18/09/04 13:21,"						<h2>Paperight head office</h2>
+<div class=""description"">
+	3rd floor, Sunclare building<br />
+	21 Dreyer St<br />
+	Claremont<br />
+	7708<br />
+</div>
+<dl>
+	<dt>Phone</dt>
+	<dd>+27 21 671 1278</dd>
+</dl>
+<dl>
+	<dt>Fax</dt>
+	<dd>+27 86 219 8093</dd>
+</dl>
+<dl>
+	<dt>Email</dt>
+	<dd><a href=""mailto:team@paperight.com"">team@paperight.com</a></dd>
+</dl>",1
+406,17/05/08 18:07,subscribe-newsletter-form,en,heading,17/05/08 18:07,Subscribe to our newsletter,0
+407,17/05/08 18:07,subscribe-newsletter-form,en,email,17/05/08 18:07,Email address,0
+408,17/05/08 18:07,subscribe-newsletter-form,en,email-note,17/05/08 18:07,,0
+409,17/05/08 18:07,subscribe-newsletter-form,en,first-name,17/05/08 18:07,First name,0
+410,17/05/08 18:07,subscribe-newsletter-form,en,first-name-note,17/05/08 18:07,,0
+411,17/05/08 18:07,subscribe-newsletter-form,en,last-name,17/05/08 18:07,Last name,0
+412,17/05/08 18:07,subscribe-newsletter-form,en,last-name-note,17/05/08 18:07,,0
+413,17/05/08 18:07,subscribe-newsletter-form,en,button,17/05/08 18:07,Subscribe,0
+414,17/05/09 11:31,top-up-form,en,heading,17/05/09 11:31,Top-up,0
+415,17/05/09 11:31,top-up-form,en,sub-heading,17/05/09 11:31,Buy more credits,0
+416,17/05/09 11:31,top-up-form,en,amount,18/05/21 11:19,Number of credits (minimum 2 credits),0
+417,17/05/09 11:31,top-up-form,en,amount-about,18/05/21 11:19,That will cost about,0
+418,17/05/09 11:31,top-up-form,en,payment-method,17/05/09 11:31,How do you want to pay?,0
+419,17/05/09 11:31,top-up-form,en,payment-method-eft,17/06/12 12:43,Online banking transfer (may take a few hours to clear),0
+420,17/05/09 11:31,top-up-form,en,payment-method-paypal,18/05/06 13:44,Credit card or PayPal (clears immediately),0
+421,17/05/09 11:31,top-up-form,en,button,17/05/09 11:31,Pay now,0
+422,17/05/09 12:34,email-template-contact-us,en,content,17/05/09 12:34,$contactMessage.message,1
+423,17/05/10 06:40,searchResults,en,no-results,17/06/06 09:38,"			<p>Your search did not match any products.</p>
+<p>Suggestions:</p>
+<ul>
+	<li>Make sure all words are spelled correctly.</li>
+	<li>Try different keywords.</li>
+	<li>Try more general keywords.</li>
+</ul>",1
+489,17/05/15 14:12,email-template-reset-password,en,content,17/05/16 19:15,"<p>Hi $user.firstName</p>
+
+<p>You asked us to reset your password on paperight.com.</p>
+
+<p>To set a new password, please click the link below or paste it into a web browser.</p>
+
+<p><a href=""$resetPasswordUrl"">$resetPasswordUrl</a></p>
+
+<p>If you didn't ask to reset your password, you can ignore this, or let us know at <a href=""mailto:team@paperight.com"">team@paperight.com</a>.</p>
+
+<p>Best wishes</p>
+
+<p>The Paperight team</p>",1
+426,17/05/10 08:52,payment-confirmation,en,text,17/06/19 08:18,"												<h1>Payment confirmation</h1>
+<p>Thank you for your order! Your reference number for this order is <strong>[$transactionReference$]</strong></p>
+
+<div class=""ui-panel ui-widget ui-widget-content ui-corner-all"">
+	<h3>Your order summary</h3>
+	<div><strong>Reference: </strong><span>[$transactionReference$]</span></div>
+	<div><strong>Credits purchased: </strong><span>[$numberOfCredits$]</span></div>
+	<div><strong>Total charged: </strong><span>[$totalCharged$]</span></div>
+	<div><strong>Status: </strong><span>[$transactionStatus$]</span></div>
+	<div><strong>Date: </strong><span>[$transactionDate$]</span></div>
+</div>
+
+
+<h2>Please pay [$totalCharged$] into our account as soon as possible.</h2>
+<div><strong>Account Name: </strong><span>Paperight (Pty) Ltd</span></div>
+<div><strong>Account number: </strong><span>62357315425</span></div>
+<div><strong>Bank: </strong><span>First National Bank</span></div>
+<div><strong>Branch: </strong><span>Claremont, 215 Main Road, Claremont, Cape Town 7708, South Africa</span></div>
+<div><strong>Branch code: </strong><span>200109</span></div>
+<div><strong>Account type: </strong><span>Business cheque/current account</span></div>
+<div><strong>SWIFT code for international payments: </strong><span>FIRNZAJJ</span></div>
+
+<p>Payments via PayPal can be sent to paypal@paperight.com.</p>
+
+<p><strong>Please use [$transactionReference$] as the reference on the payment.</strong></p>
+
+<p><strong>Please note</strong> that we will add your new credits as soon as the full payment clears in our account. Depending on your bank, this may take up to a few days. If you email proof of payment to <a href=""mailto:team@paperight.com"">team@paperight.com</a>, we may be able to clear your payment faster.</p>
+
+<p>Any questions? Call +27 21 671 1278 or e-mail <a href=""mailto:team@paperight.com"">team@paperight.com</a>.</p>",1
+427,17/05/10 08:52,payment-confirmation-paypal,en,button-print,17/05/10 08:52,Print,0
+428,17/05/10 08:52,payment-confirmation-paypal,en,button-continue,17/05/10 08:52,Continue,0
+429,17/05/10 13:57,notifications,en,forgot-password-no-user-found-error,17/05/10 13:57,"Sorry, that email address isn't registered with us. Please check that you're logging in with the email address you registered with. If you haven't registered yet, do that now, it's free and quick.",0
+490,17/05/16 14:25,email-template-activate-user,en,subject,17/05/16 14:25,Welcome to Paperight,0
+491,17/05/16 14:25,email-template-activate-user,en,content,17/05/16 19:16,"<p>Hi $user.firstName</p>
+
+<p>Thanks for registering on Paperight! Our team just got an email telling them about you. We're looking forward to working with you.</p>
+
+<p>First, we need to check that your email address is correct. To do this, please click on this link, or paste it into a web browser:</p>
+
+<p><a href=""$activateUrl"">$activateUrl</a></p>
+
+<p>Your registration is NOT complete until you have done this.</p>
+
+<p>Any questions, just email us at <a href=""mailto:team@paperight.com"">team@paperight.com</a> or call us on +27 21 671 1278.</p>
+
+<p>Best wishes</p>
+
+<p>The Paperight team</p>",1
+432,17/05/10 14:59,licence-product-summary,en,grid-credits-heading,17/05/10 14:59,Credits,0
+433,17/05/10 14:59,licence-product-summary,en,grid-charged-to-customers-heading,17/05/10 14:59,Charged to customers,0
+434,17/05/10 14:59,licence-product-summary,en,grid-product-heading,17/05/10 14:59,Product,0
+435,17/05/10 14:59,licence-product-summary,en,grid-total-transactions-heading,17/07/06 18:11,Completed transactions,0
+436,17/05/10 14:59,licence-product-summary,en,grid-total-copies-heading,17/05/10 14:59,Total copies,0
+437,17/05/10 14:59,licence-product-summary,en,grid-total-credits-used-heading,17/05/10 14:59,Total credits used,0
+438,17/05/10 14:59,licence-product-summary,en,grid-total-licence-fees-heading,17/05/10 14:59,Total licence fees,0
+439,17/05/10 14:59,licence-product-summary,en,grid-total-print-costs-heading,17/05/10 14:59,Total print costs,0
+440,17/05/10 14:59,licence-product-summary,en,grid-total-charged-heading,17/05/10 14:59,Total you charged,0
+441,17/05/10 21:44,publisher-earnings,en,request-payment-button,17/05/10 21:44,Request payment for 'Pending' items,0
+442,17/05/10 21:44,publisher-earnings,en,dialog-request-payment-question,17/05/10 21:44,Are you sure you want to request payment?,0
+443,17/05/10 21:44,publisher-earnings,en,dialog-request-payment-title,17/05/10 21:44,Warning,0
+444,17/05/10 21:44,publisher-earnings,en,dialog-request-payment-button-no,17/05/10 21:44,No,0
+445,17/05/10 21:44,publisher-earnings,en,dialog-request-payment-button-yes,17/05/10 21:44,Yes,0
+446,17/05/10 21:44,publisher-earnings,en,view-all-link,17/07/25 11:04,View all products,0
+447,17/05/11 10:19,email-template-close-user,en,subject,17/05/11 10:19,Your paperight.com account has been closed,0
+448,17/05/11 10:19,email-template-close-user,en,content,17/05/11 10:19,"<p>Hi $user.firstName</p>
+
+<p>This is to confirm that you have just closed your user account on paperight.com. If you think this was a mistake, just let us know at <a href=""mailto:team@paperight.com"">team@paperight.com</a>.</p>
+
+<p>Best wishes</p>
+
+<p>The Paperight team</p>",1
+449,17/05/13 19:21,email-template-suggest-book,en,subject,17/05/13 19:21,Suggest a book,0
+450,17/05/13 19:21,email-template-suggest-book,en,content,17/05/13 19:21,"<div>
+	<dl>
+		<dt>Title</dt>
+		<dd>${suggestBook.title}</dd>
+	</dl>
+	<dl>
+		<dt>Author(s)</dt>
+		<dd>${suggestBook.author}</dd>
+	</dl>
+	<dl>
+		<dt>Additional Information</dt>
+		<dd>${suggestBook.additionalInformation}</dd>
+	</dl>
+</div>",1
+451,17/05/14 10:26,payment-confirmation,en,button-print,17/05/14 10:26,Print,0
+452,17/05/14 10:26,payment-confirmation,en,button-continue,17/05/14 10:26,Continue,0
+453,17/05/14 13:12,notifications,en,account-updated,17/05/14 13:12,Account updated!,0
+454,17/05/15 14:10,change-password-form,en,heading,17/05/15 14:10,Change your password,0
+455,17/05/15 14:10,change-password-form,en,old-password,17/05/15 14:10,Old password,0
+456,17/05/15 14:10,change-password-form,en,old-password-note,17/05/15 14:10,,0
+457,17/05/15 14:10,change-password-form,en,new-password,17/05/15 14:10,New password,0
+458,17/05/15 14:10,change-password-form,en,new-password-note,17/05/15 14:10,,0
+459,17/05/15 14:10,change-password-form,en,confirm-new-password,17/05/15 14:10,Confirm new password,0
+460,17/05/15 14:10,change-password-form,en,confirm-new-password-note,17/05/15 14:10,,0
+461,17/05/15 14:10,change-password-form,en,button,17/05/15 14:10,Save new password,0
+462,17/05/15 14:26,account-information,en,activate-account-button,17/05/15 14:26,Activate account,0
+463,17/05/15 15:08,notifications,en,account-password-updated,17/05/15 15:08,Password updated!,0
+464,17/05/16 10:42,productDetailLoggedIn,en,priceNotOutletHeader,17/05/16 10:42,Want to buy this book?,0
+465,17/05/16 10:42,productDetailLoggedIn,en,priceNotOutletDescription,17/05/16 10:42,You need to change your account registration to <em>Paperight Outlet</em>.,0
+466,17/05/16 10:42,productDetailLoggedIn,en,priceNotOutletButton,17/05/16 10:42,Edit your details,0
+467,17/05/16 13:18,publisher-payment-details-form,en,heading,17/05/16 13:18,Publisher Payment Details,0
+468,17/05/16 13:18,publisher-payment-details-form,en,payment-method,17/05/16 13:18,Payment method,0
+469,17/05/16 13:18,publisher-payment-details-form,en,payment-method-note,17/05/16 13:18,,0
+470,17/05/16 13:18,publisher-payment-details-form,en,bank-name,17/05/16 13:18,Bank name,0
+471,17/05/16 13:18,publisher-payment-details-form,en,bank-name-note,17/05/16 13:18,,0
+472,17/05/16 13:18,publisher-payment-details-form,en,account-holder,17/05/16 13:18,Account holder,0
+473,17/05/16 13:18,publisher-payment-details-form,en,account-holder-note,17/05/16 13:18,,0
+474,17/05/16 13:18,publisher-payment-details-form,en,account-number,17/05/16 13:18,Account number,0
+475,17/05/16 13:18,publisher-payment-details-form,en,account-number-note,17/05/16 13:18,,0
+476,17/05/16 13:18,publisher-payment-details-form,en,branch-name,17/05/16 13:18,Branch name,0
+477,17/05/16 13:18,publisher-payment-details-form,en,branch-name-note,17/05/16 13:18,,0
+478,17/05/16 13:18,publisher-payment-details-form,en,branch-code,17/05/16 13:18,Branch code,0
+479,17/05/16 13:18,publisher-payment-details-form,en,branch-code-note,17/05/16 13:18,,0
+480,17/05/16 13:18,publisher-payment-details-form,en,paypal-address,17/05/16 13:18,Paypal Address,0
+481,17/05/16 13:18,publisher-payment-details-form,en,paypal-address-note,17/05/16 13:18,,0
+492,17/05/16 14:25,email-template-user-registration,en,subject,17/05/16 14:25,New registration notification,0
+493,17/05/16 14:25,email-template-user-registration,en,content,17/05/23 10:53,"New Registration
+
+<div>
+	<dl>
+		<dt>Name:</dt>
+		<dd>$user.fullName</dd>
+	</dl>
+	<dl>
+		<dt>Company:</dt>
+		<dd>$user.company.name</dd>
+	</dl>
+	<dl>
+		<dt>Email:</dt>
+		<dd>$user.email</dd>
+	</dl>
+	<dl>
+		<dt>Contact Number:</dt>
+		<dd>$user.company.phoneNumber</dd>
+	</dl>
+</div>
+
+<div>
+	<p>They are registered as:</p>
+
+	#foreach( $role in $user.roles)
+	    <li>$role</li>
+	#end
+
+</div>",1
+494,17/05/16 21:37,email-template-update-email-old-email,en,subject,17/05/16 21:37,Your email has been updated on Paperight,0
+495,17/05/16 21:37,email-template-update-email-old-email,en,content,17/05/16 21:37,"<p>Hi $user.firstName</p>
+
+<p>This is to confirm that you have just changed your email address on Paperight. Your old email address was:</p>
+
+<p>$oldEmail</p>
+
+<p>and you changed it to:</p>
+
+<p>$user.email</p>
+
+<p>If you didn't make this change, please let us know immediately (email <a href=""mailto:team@paperight.com"">team@paperight.com</a>). Perhaps someone changed it without your permission.</p>
+
+<p>Best wishes</p>
+
+<p>The Paperight team</p>",1
+496,17/05/16 21:37,email-template-update-email-new-email,en,subject,17/05/16 21:37,Your email has been updated on Paperight,0
+497,17/05/16 21:37,email-template-update-email-new-email,en,content,17/05/16 21:37,"<p>Hi $user.firstName</p>
+
+<p>This is to confirm that you have just changed your email address on Paperight. Your old email address was:</p>
+
+<p>$oldEmail</p>
+
+<p>and you changed it to:</p>
+
+<p>$user.email</p>
+
+<p>Now, you must confirm that this new address is correct. To confirm, please click the following link, or paste it into a web browser:</p>
+
+<p><a href=""$activateUrl"">$activateUrl</a></p>
+
+<p>Thanks! Any questions, let us know at <a href=""mailto:team@paperight.com"">team@paperight.com</a>.</p>
+
+<p>Best wishes</p>
+
+<p>The Paperight team</p>",1
+498,17/05/17 09:03,registration-complete,en,text,17/12/05 12:25,"						<h1>Registration successful</h1>
+<h3>Thank you, [$userFirstName$], your registration is almost complete</h3>
+<div class=""form"">
+	To activate your account, you must still confirm your email address.<br /><br />
+	<ul>
+		<li>You will receive an email from Paperight with an account-activation link.</li>
+		<li>Please check your email now, including your spam folders.</li>
+		<li>You must click the link in that email to confirm your email address.</li>
+	</ul>
+	<p>
+		If you do not confirm your email by clicking the activation link, you will not be able to download documents.<br /><br />
+		<a href=""/account"">Click here to check or update your settings.</a>
+	</p>
+	<p>
+		New outlets will appear on our outlets map once our team has checked your details. This usually takes 24 hours on weekdays.
+	</p>
+</div>
+",1
+499,17/05/17 18:52,product-detail-licences,en,dialog-purchasing-licence-message-insufficient-credits,17/05/17 18:52,"Sorry, you don't have enough credits. Please top up.",0
+500,17/05/22 11:49,notifications,en,email-activation-sent,17/05/22 11:49,"Please check your email, we have sent you a confirmation message that you must click to confirm your email address.",0
+501,17/05/22 14:05,notifications,en,account-disabled,17/05/22 14:05,"Sorry, your account is disabled. Please <a href=""/contactus"">contact us</a> to find out about reactivating your account.",0
+502,17/05/23 08:57,update-email-form,en,heading,17/05/23 08:57,Update Email,0
+503,17/05/23 08:57,update-email-form,en,new-email,17/05/23 08:57,New email address,0
+504,17/05/23 08:57,update-email-form,en,new-email-note,17/05/23 08:57,,0
+505,17/05/23 08:57,update-email-form,en,confirm-new-email,17/05/23 08:57,Confirm new email address,0
+506,17/05/23 08:57,update-email-form,en,confirm-new-email-note,17/05/23 08:57,,0
+507,17/05/23 08:57,update-email-form,en,button,17/05/23 08:57,Update,0
+508,17/05/23 08:57,notifications,en,email-update-success,17/05/23 08:57,Email update successful. You will receive confirmation emails shortly.,0
+509,17/05/23 20:50,edit-company-user-form,en,dialog-saving-message-saved-update-user,17/05/23 20:50,User saved successfully,0
+510,17/05/23 20:50,edit-company-user-form,en,dialog-saving-message-saved-new-user,17/05/23 20:50,User saved successfully. The new user will receive an email to set their password. Please make sure they check their email.,0
+511,17/05/24 08:20,email-template-licence-purchase,en,subject,17/05/24 08:20,Paperight licence-purchase notification,0
+512,17/05/24 08:20,email-template-licence-purchase,en,content,17/05/24 08:20,"<p>Hi $user.firstName</p>
+
+<p>$licence.user.fullName at $licence.company.name has just purchased a licence to print:</p>
+
+<p>Title: $productTitle</p>
+
+<p>Customer name: $licence.customerName $licence.customerLastName</p>
+
+<p>Paperight credit cost: $licence.costInCredits</p>
+
+<p>Approximate value in your currency: $valueCurrency</p>
+
+<p>Your print charges as entered: $outletCharge</p>
+
+<p>Total charged to the customer: $totalCharge</p>
+
+<p>Product and licence details: <a href=""$productUrl"">$productUrl</a></p>
+
+<p>Your Paperight credit account balance is now: $licence.company.credits</p>
+
+<p>You can add more credits here: <a href=""$topupUrl"">$topupUrl</a></p>
+
+<p>If you have any questions or concerns, please contact us at <a href=""mailto:team@paperight.com"">team@paperight.com</a> or call <a href=""tel:+27 21 671 1278"">+27 21 671 1278</a></p>
+
+<p>Best wishes</p>
+
+<p>The Paperight team</p>",1
+513,17/05/25 07:08,account-information,en,close-company-button,17/05/25 07:08,Close company,0
+514,17/05/25 07:08,account-information,en,dialog-close-company-question,17/05/25 07:08,WARNING: Are you sure you want to close your company? This will close all users and child companies too.,0
+515,17/05/25 07:08,account-information,en,dialog-close-company-title,17/05/25 07:08,Warning,0
+516,17/05/25 07:08,account-information,en,dialog-close-company-button-no,17/05/25 07:08,No,0
+517,17/05/25 07:08,account-information,en,dialog-close-company-button-yes,17/05/25 07:08,Yes,0
+518,17/05/25 07:08,account-information,en,dialog-disable-company-question,17/05/25 07:08,WARNING: Are you sure you want to disable this company? This will disable all users and child companies too.,0
+519,17/05/25 07:08,account-information,en,dialog-disable-company-title,17/05/25 07:08,Warning,0
+520,17/05/25 07:08,account-information,en,dialog-disable-company-button-no,17/05/25 07:08,No,0
+521,17/05/25 07:08,account-information,en,dialog-disable-company-button-yes,17/05/25 07:08,Yes,0
+522,17/05/25 12:16,productDetail,en,productNotAvailableHeader,17/07/23 14:06,We're sorry,0
+523,17/05/25 12:16,productDetail,en,productNotAvailableDescription,17/07/23 14:06,This book is not for sale at the moment. Please contact us if you need more information.,0
+524,17/05/30 08:43,notifications,en,account-closed,17/05/30 08:43,"Sorry, your account is closed. <a href=""/reopen/request"">Click here</a> to reopen your account.",0
+525,17/05/31 00:06,payment-confirmation-paypal,en,text,17/11/01 13:19,"			<h1>PayPal payment confirmation</h1>
+<p>Thank you for your order! Your reference number for this order is <strong>[$transactionReference$]</strong></p>
+
+<div class=""ui-panel ui-widget ui-widget-content ui-corner-all"">
+	<h3>Your order summary</h3>
+	<div><strong>Reference: </strong><span>[$transactionReference$]</span></div>
+	<div><strong>Credits purchased: </strong><span>[$numberOfCredits$]</span></div>
+	<div><strong>Total charged: </strong><span>[$totalCharged$]</span></div>
+	<div><strong>Status: </strong><span>[$transactionStatus$]</span></div>
+	<div><strong>Date: </strong><span>[$transactionDate$]</span></div>
+</div>
+
+<p>If you have any questions about your purchase, call our team on +27 21 671 1278 or e-mail <a href=""mailto:team@paperight.com"">team@paperight.com</a>.</p>",1
+526,17/06/19 14:34,account-information,en,disable-company-button,17/06/19 14:34,Disable company,0
+666,17/07/30 12:16,themes-css,en,default,19/01/24 13:03,"			/* PAPERIGHT CLOSURE ANNOUNCEMENT */
+
+#header {
+	padding-top: 7em;
+}
+#header:before {
+	content: ""We're sorry, Paperight has closed. Outlets can still get exam papers and classics for free."";
+	position: fixed;
+	height: 2em;
+	background-color: #FFFF66;
+	width: 100%;
+	text-align: center;
+	padding: 3.3em 0 0 0;
+	margin: -6em 0 0em 0;
+	font-size: x-large;
+	z-index: 100;
+	box-shadow: 0 1px 3px #888888;
+}																																	
+																																				/* -------------------- Default theme logo */
+
+#logo-panel a { width:100px; height:118px; background:url(/themes/default/images/logo.png) no-repeat 0 0; display:block; }
+
+/* -------------------- Paperight team adjustments from default theme CSS overrides */
+
+ul, ol {
+   margin-bottom: 1em;
+}
+
+/* -------------------- Make input text darker */
+
+input[type=""text""], input[type=""password""] {
+   color: #222222;
+}
+
+/* -------------------- Override restrictive height setting in Latest Transactions table in sales dashboard */
+
+.product-ui-tn-label {
+   height: auto;
+   min-height: 60px;
+}
+
+/* -------------------- Make impersonate warning message float and always visible */
+
+#impersonate-message {
+   z-index: 99;
+   left: 10px;
+   top: 10px;
+   position: fixed;
+}
+
+/* -------------------- Appearance of thumbnails in 'related products' metadata on product page */
+
+img.related-products-thumbnail {
+   border: 1px solid #e5e5e5 !important;
+}
+
+/* -------------------- Hide unnecessary stuff on error pages */
+
+.error #intro-video, .error #deck {
+   display: none;
+}
+
+/* -------------------- Put search panel above other elements */
+
+#search-panel {
+   z-index: 1;
+}
+
+/* -------------- Clean up appearance of footer */
+
+#footer .wrapper .navigation {
+	text-align: center;
+	margin: 1.5em 3em 3em 3em;
+}
+#footer .wrapper .navigation ul li a {
+	font-size: 14px;
+}
+#footer .wrapper .accolades {
+	border-top: 1px solid #f2f2f2;
+	padding: 2em 0 0 0;
+	position: absolute;
+}
+#footer .wrapper .logos {
+	display: none;
+}
+
+/* Improve appearance of 'Download free preview' link */
+
+.preview {
+  float: right;
+  margin-right: 2em;
+}
+.preview a.btn-preview {
+  border: 1px solid #ccc;
+  padding: 0.5em;
+  border-radius: 0.5em;
+}
+.preview a.btn-preview:hover {
+  background-color: #f2f2f2;
+}
+
+/* Add buttony link, e.g. a help link on productDetailLoggedIn */
+
+a.process-help-link {
+  border: 1px solid #f2f2f2;
+  padding: 0.5em;
+  border-radius: 0.5em;
+  margin: 0 2em;
+  font-weight: normal;
+  font-size: 12px;
+  color: #bbb;
+}
+a.process-help-link:hover {
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+}
+
+/* Fix width of article layouts */
+
+.columns {
+  margin: 40px;
+}",1
+529,17/07/31 14:39,email-template-reopen-user,en,subject,17/07/31 14:39,Reopen your user account on Paperight,0
+530,17/07/31 14:39,email-template-reopen-user,en,content,17/07/31 14:39,"<p>Hi $user.firstName</p>
+
+<p>To reopen your account on Paperight, please click the link below or paste it into a web browser. (If you didn't ask to reopen your account, you can ignore this, or let us know at <a href=""mailto:team@paperight.com"">team@paperight.com</a>.)</p>
+
+<p><a href=""$reopenUserUrl"">$reopenUserUrl</a></p>
+
+<p>Best wishes</p>
+
+<p>The Paperight team</p>",1
+531,17/07/31 14:39,notifications,en,reopen-account-email-sent,17/07/31 14:39,An email has been sent to you with instructions on how to reopen your account.,0
+532,17/08/01 22:26,registration,en,gpsLocation,17/08/02 07:06,Mark your location,0
+533,17/08/01 22:26,registration,en,gpsLocationNote,17/08/02 07:08,"Click 'Search for my address'. Zoom in, double-click the map, and drag the marker to your exact location. For outlets, this will help customers find you easily.",0
+534,17/08/01 22:26,registration,en,gpsLocationSearchButton,17/08/02 07:06,Search for my address,0
+535,17/08/02 06:37,account-information,en,gpsLocation,17/08/02 06:37,GPS location,0
+536,17/08/02 06:37,profileUpdate,en,gpsLocation,17/08/02 06:41,Mark your location,0
+537,17/08/02 06:37,profileUpdate,en,gpsLocationNote,17/08/02 07:07,"Click 'Search for my address'. Zoom in, double-click the map, and drag the marker to your exact location. For outlets, this will help customers find you easily.",0
+538,17/08/02 06:37,profileUpdate,en,gpsLocationSearchButton,17/08/02 06:40,Search for my address,0
+539,17/08/02 08:31,account-information,en,mapDisplay,17/08/02 08:31,Map display,0
+540,17/08/12 23:56,publisher-earning-generate-statement,en,heading,17/11/05 09:46,Download PDF earnings statement,0
+541,17/08/12 23:56,publisher-earning-generate-statement,en,from-date-label,17/08/12 23:56,From date,0
+542,17/08/12 23:56,publisher-earning-generate-statement,en,to-date-label,17/08/12 23:56,To date,0
+543,17/08/12 23:56,publisher-earning-generate-statement,en,button,17/11/05 09:46,Download,0
+544,17/08/12 23:56,publisher-earning-generate-statement,en,dialog-generate-statement-message,17/08/12 23:56,Your statement will download shortly. You may close this window at any time.,0
+545,17/08/12 23:56,publisher-earning-generate-statement,en,dialog-generate-statement-title,17/08/27 07:51,Statement created,0
+546,17/08/12 23:56,publisher-earning-generate-statement,en,dialog-generate-statement-button-ok,17/08/12 23:56,OK,0
+547,17/08/12 23:56,publisher-earnings,en,link-download-invoice,17/08/12 23:56,Download invoice,0
+548,17/08/12 23:56,publisher-earnings,en,dialog-licence-invoice-message,17/08/12 23:56,Your invoice will download shortly. You may close this window at any time.,0
+549,17/08/12 23:56,publisher-earnings,en,dialog-licence-invoice-title,17/08/12 23:56,Invoice,0
+550,17/08/12 23:56,publisher-earnings,en,dialog-licence-invoice-button-ok,17/08/12 23:56,OK,0
+551,17/08/12 23:56,licence-generate-statement,en,heading,17/08/12 23:56,Get statement,0
+552,17/08/12 23:56,licence-generate-statement,en,from-date-label,17/08/12 23:56,From date,0
+553,17/08/12 23:56,licence-generate-statement,en,to-date-label,17/08/12 23:56,To date,0
+554,17/08/12 23:56,licence-generate-statement,en,button,17/08/12 23:56,Generate statement,0
+555,17/08/12 23:56,licence-generate-statement,en,dialog-generate-statement-message,17/08/12 23:56,Your statement will download shortly. You may close this window at any time.,0
+556,17/08/12 23:56,licence-generate-statement,en,dialog-generate-statement-title,17/08/12 23:56,Generate statement,0
+557,17/08/12 23:56,licence-generate-statement,en,dialog-generate-statement-button-ok,17/08/12 23:56,OK,0
+558,17/08/12 23:56,licence-search,en,link-download-invoice,17/08/12 23:56,Download invoice,0
+559,17/08/12 23:56,licence-search,en,dialog-licence-invoice-message,17/08/12 23:56,Your invoice will download shortly. You may close this window at any time.,0
+560,17/08/12 23:56,licence-search,en,dialog-licence-invoice-title,17/08/12 23:56,Invoice,0
+561,17/08/12 23:56,licence-search,en,dialog-licence-invoice-button-ok,17/08/12 23:56,OK,0
+562,17/08/12 23:57,registration,en,vatRegistered,17/08/12 23:57,VAT registered?,0
+563,17/08/12 23:57,registration,en,vatRegisteredNote,17/08/12 23:57,,0
+564,17/08/12 23:57,registration,en,vatRegistrationNumber,17/08/12 23:57,VAT registration number,0
+565,17/08/12 23:57,registration,en,vatRegistrationNumberNote,17/08/12 23:57,"If you are registered for VAT in your country, we'll include these details on your invoices.",0
+566,17/08/12 23:57,registration,en,vatDateOfLiability,17/08/12 23:57,VAT date of liability,0
+567,17/08/12 23:57,registration,en,vatDateOfLiabilityNote,17/09/04 13:03,The date on which your business first became liable for VAT.,0
+568,17/08/13 00:04,product-detail-publisher-earnings,en,grid-heading-date,17/08/13 00:04,Date,0
+569,17/08/13 00:04,product-detail-publisher-earnings,en,grid-heading-copies,17/08/13 00:04,Copies,0
+570,17/08/13 00:04,product-detail-publisher-earnings,en,grid-heading-layout,17/08/13 00:04,Layout,0
+571,17/08/13 00:04,product-detail-publisher-earnings,en,grid-heading-amount,17/08/13 00:04,Amount,0
+572,17/08/13 00:04,product-detail-publisher-earnings,en,grid-heading-status,17/08/13 00:04,Status,0
+573,17/08/13 00:04,product-detail-publisher-earnings,en,grid-heading-invoice,17/08/13 00:04,Invoice,0
+574,17/08/13 00:04,product-detail-licences,en,grid-copies-heading,17/08/13 00:04,Copies,0
+575,17/08/13 00:04,product-detail-publisher-earnings,en,download-invoice-button,17/08/13 00:04,Download,0
+576,17/08/13 00:04,product-detail-earnings,en,dialog-licence-invoice-message,17/08/13 00:04,Your invoice will download shortly. You may close this window at any time.,0
+577,17/08/13 00:04,product-detail-earnings,en,dialog-licence-invoice-title,17/08/13 00:04,Invoice,0
+578,17/08/13 00:04,product-detail-licences,en,grid-document-invoice-heading,17/08/13 00:04,Invoice,0
+579,17/08/13 00:04,product-detail-earnings,en,dialog-licence-invoice-button-ok,17/08/13 00:04,OK,0
+580,17/08/13 00:04,product-detail-licences,en,dialog-licence-invoice-message,17/08/13 00:04,Your invoice will download shortly. You may close this window at any time.,0
+581,17/08/13 00:04,product-detail-licences,en,dialog-licence-invoice-title,17/08/13 00:04,Invoice,0
+582,17/08/13 00:04,product-detail-licences,en,dialog-licence-invoice-button-ok,17/08/13 00:04,OK,0
+583,17/08/13 00:05,product-detail-licences,en,link-download-invoice,17/08/13 00:05,Download invoice,0
+584,17/08/13 00:05,publisher-earnings,en,link-redownload-invoice,17/08/13 00:05,Redownload invoice,0
+585,17/08/13 00:05,licence-search,en,link-redownload-invoice,17/08/13 00:05,Redownload invoice,0
+586,17/08/13 12:15,profileUpdate,en,vatRegistered,17/08/13 12:15,VAT registered?,0
+587,17/08/13 12:15,profileUpdate,en,vatRegisteredNote,17/08/13 12:15,,0
+588,17/08/13 12:15,profileUpdate,en,vatRegistrationNumber,17/08/13 12:15,VAT registration number,0
+589,17/08/13 12:15,profileUpdate,en,vatRegistrationNumberNote,17/08/13 12:15,"If you are registered for VAT in your country, we'll include these details on your invoices.",0
+590,17/08/13 12:15,profileUpdate,en,vatDateOfLiability,17/08/13 12:15,VAT date of liability,0
+591,17/08/13 12:15,profileUpdate,en,vatDateOfLiabilityNote,17/09/04 13:05,The date on which your business first became liable for VAT.,0
+592,17/08/13 12:18,profileUpdate,en,mapDisplay,17/08/13 12:18,Map display,0
+593,17/08/13 12:18,profileUpdate,en,mapDisplayNote,17/08/13 12:18,,0
+594,17/08/14 09:34,product-detail-licences,en,link-redownload-invoice,17/08/14 09:34,Redownload invoice,0
+595,17/08/17 10:11,product-detail-publisher-earnings,en,link-redownload-invoice,17/08/17 10:11,Redownload invoice,0
+596,17/08/17 10:11,product-detail-publisher-earnings,en,downloaded-invoice-link,17/08/17 10:11,Downloaded,0
+597,17/08/23 08:45,product-detail-earnings,en,no-earnings,17/08/23 08:45,No earnings,0
+598,17/09/12 09:24,searchResult,en,unavailable-text,17/09/12 09:24,Unavailable,0
+599,17/10/23 08:52,product-detail-licences,en,confirm-email-button,17/10/23 08:52,Confirm email address,0
+600,17/10/30 23:07,outlets-map,en,telephone,17/10/30 23:07,Telephone:,0
+601,17/10/30 23:07,outlets-map,en,address,17/10/30 23:07,Address:,0
+602,17/10/30 23:07,outlets-map,en,street-view,17/10/30 23:07,Street View,0
+603,17/10/30 23:07,outlets-map,en,geolocation-not-supported,17/10/31 09:10,Your browser does not support geolocation :-(,0
+604,17/10/30 23:07,outlets-map,en,premium-outlet,17/10/31 09:10,Premium outlet,0
+605,17/10/30 23:07,outlets-map,en,find-outlets,17/10/31 09:10,Find outlets,0
+606,17/10/30 23:07,outlets-map,en,outlets-map-description,17/10/31 09:10,"If you can't find an outlet near you, let us	 know and we'll try to fix that. ",0
+607,17/10/30 23:07,outlets-map,en,outlets-search-button,17/10/30 23:07,Find outlets,0
+608,17/10/30 23:07,outlets-map,en,outlet-select-label,17/11/01 09:53,Your ten nearest outlets:,0
+609,17/10/30 23:07,outlets-map,en,you-are-here,17/10/31 09:10,You are here,0
+610,17/10/30 23:07,outlets-map,en,geolocation-failed,17/10/30 23:07,Geolocation failed:,0
+611,17/10/30 23:07,product-outlets-map,en,premium-outlet,17/10/31 09:09,Premium outlet,0
+612,17/10/30 23:07,product-outlets-map,en,estimated-cost-pre,17/10/30 23:07,Estimated cost at,0
+613,17/10/30 23:07,product-outlets-map,en,estimated-cost-post,17/10/30 23:07,"To check, call them on",0
+614,17/10/30 23:07,product-outlets-map,en,address,17/10/30 23:07,Address:,0
+615,17/10/30 23:07,product-outlets-map,en,street-view,17/10/30 23:07,Street View,0
+616,17/10/30 23:07,outlets-map,en,outlets-search-label,17/10/31 09:10,Your address or town:,0
+617,17/10/30 23:07,product-outlets-map,en,telephone,17/10/30 23:07,Telephone:,0
+618,17/10/30 23:07,product-outlets-map,en,geolocation-not-supported,17/10/31 09:09,Your browser does not support geolocation :-(,0
+619,17/10/30 23:07,product-outlets-map,en,geolocation-failed,17/10/30 23:07,Geolocation failed:,0
+620,17/10/30 23:07,product-outlets-map,en,you-are-here,17/10/31 09:09,You are here,0
+621,17/10/30 23:07,product-outlets-map,en,outlet-select-label,17/10/30 23:07,Select an outlet:,0
+622,17/10/30 23:07,product-outlets-map,en,outlets-search-label,17/10/31 09:09,Your address or town:,0
+623,17/10/30 23:07,product-outlets-map,en,outlets-search-button,17/10/30 23:07,Find outlets,0
+624,17/10/31 21:02,productDetailLoggedIn,en,priceApproximate,17/10/31 21:02,Approx.,0
+625,18/03/29 12:50,publisher-payment-request,en,search-status-label,18/03/29 12:50,Status,0
+626,18/03/29 12:50,publisher-payment-request,en,grid-reference-heading,18/03/29 12:50,Reference,0
+627,18/03/29 12:50,publisher-payment-request,en,grid-rand-amount-heading,18/03/29 12:50,ZAR Amount,0
+628,18/03/29 12:50,publisher-payment-request,en,grid-dollar-amount-heading,18/03/29 12:50,$ Amount,0
+629,18/03/29 12:50,publisher-payment-request,en,grid-date-requested-heading,18/03/29 12:50,Requested,0
+630,18/03/29 12:50,publisher-payment-request,en,grid-status-heading,18/03/29 12:50,Status,0
+631,18/03/29 12:50,publisher-payment-request,en,grid-date-updated-heading,18/03/29 12:50,Updated,0
+632,18/03/29 12:50,publisher-payment-request,en,grid-cancel-link,18/03/29 12:50,Cancel,0
+633,18/03/29 12:50,publisher-payment-request,en,dialog-cancel-payment-request-question,18/03/29 12:50,Cancel this payment request?,0
+634,18/03/29 12:50,publisher-payment-request,en,dialog-cancel-payment-request-title,18/03/29 12:50,Cancel payment request,0
+635,18/03/29 12:50,publisher-payment-request,en,dialog-cancel-payment-request-button-no,18/03/29 12:50,No,0
+636,18/03/29 12:50,publisher-payment-request,en,dialog-cancel-payment-request-button-yes,18/03/29 12:50,Yes,0
+637,18/03/29 12:50,publisher-payment-request,en,dialog-cancelling-payment-request-message-cancelling,18/03/29 12:50,Submitting your request...,0
+638,18/03/29 12:50,publisher-payment-request,en,dialog-cancelling-payment-request-title,18/03/29 12:50,Cancel publisher payment request,0
+639,18/03/29 12:50,publisher-payment-request,en,dialog-cancelling-payment-request-message-cancelled,18/03/29 12:50,Thank you! We've received your request to cancel your payment request,0
+640,18/03/29 12:50,publisher-payment-request,en,dialog-cancelling-payment-request-button-ok,18/03/29 12:50,OK,0
+641,18/04/01 09:38,email-template-paid-publisher-payment-request,en,subject,18/04/01 09:38,Publisher Payment Request Approved,0
+642,18/04/01 09:38,email-template-paid-publisher-payment-request,en,content,18/04/01 09:38,"<p>Dear $publisherPaymentRequest.user.fullName.</p>
+
+<p>We have made a payment to $publisherPaymentRequest.company.name for $amountInCurrency of licence fees. To see your latest earnings balance, log in to <a href=""$appUrl"">paperight.com</a>.</p>
+
+<p>Best wishes, the Paperight team.</p>",1
+650,17/04/05 22:05,loginForm,en,notRegisteredText,18/08/20 11:50,"It's free to register, and takes less than a minute.",0
+651,17/04/06 08:44,profileUpdate,en,outletNote,18/10/25 11:52,Outlets (like print shops and schools) use Paperight to print and copy books legally.,0
+652,17/04/06 08:44,profileUpdate,en,publisherNote,18/10/25 11:52,"Publishers distribute books through <a href=""http://www.paperight.com/outlets"" target=""_blank"">our network of outlets</a>.",0
+653,17/04/06 08:44,profileUpdate,en,companyName,18/08/20 11:50,Organisation name,0
+654,17/04/06 08:44,profileUpdate,en,companyNameNote,18/08/20 11:50,"If you're a consumer-facing business, we may display this to customers.",0
+647,18/07/16 19:08,registration,en,averageBindingCostNote,18/07/16 19:08,We'll include this in your customer's suggested price.,0
+649,18/07/22 08:57,profileUpdate,en,averageBindingCostNote,18/07/22 08:57,We'll include this in your customer's suggested price.,0
+657,18/06/28 20:03,profileUpdate,en,averageBindingCost,18/08/20 11:50,Average charge for binding and a colour A4 cover,0
+658,17/04/05 22:37,registration,en,companyName,18/08/20 11:48,Organisation name,0
+659,17/04/05 22:37,registration,en,companyNameNote,18/08/20 11:48,"If you're a consumer-facing business, we may display this to customers.",0
+660,17/04/05 22:37,registration,en,websiteAddressNote,18/08/20 11:48,If you have a website. We may use this when we advertise.,0
+661,17/04/05 22:37,registration,en,companyDescription,18/08/20 11:48,Describe your organisation in one sentence,0
+662,17/04/05 22:37,registration,en,outletNote,18/10/25 11:51,Outlets (like print shops and schools) use Paperight to print and copy books legally.,0
+663,17/04/05 22:37,registration,en,publisherNote,18/10/25 11:51,"Publishers distribute books through <a href=""http://www.paperight.com/outlets"" target=""_blank"">our network of outlets</a>.",0
+664,18/06/28 13:32,registration,en,averageBindingCost,18/08/20 11:48,Average charge for binding and a colour A4 cover,0
+665,17/07/30 12:16,themes-css,en,postnet,19/01/24 13:03,"			/* PAPERIGHT CLOSURE ANNOUNCEMENT */
+
+#header {
+	padding-top: 7em;
+}
+#header:before {
+	content: ""We're sorry, Paperight has closed. Outlets can still get exam papers and classics for free."";
+	position: fixed;
+	height: 2em;
+	background-color: #FFFF66;
+	width: 100%;
+	text-align: center;
+	padding: 3.3em 0 0 0;
+	margin: -6em 0 0em 0;
+	font-size: x-large;
+	z-index: 100;
+	box-shadow: 0 1px 3px #888888;
+}		
+																																																																																			/* ---------- Paperight: custom outlet theme child CSS */
+
+#logo-panel a { width:247px; height:78px; background:url(/themes/postnet/images/logo.jpg) no-repeat 0 0; display:block; }
+
+/* ---------- Hide outlets link and registration link from login panel */
+
+#logged-out-customers {visibility: hidden;}
+#logged-out-outlets {border: 0 !important;}
+#logged-out-outlets span.title {visibility: hidden;}
+#logged-out-outlets a {visibility: hidden;}
+
+/* ---------- Hide average costs field on dashboard */
+
+#averagePrintingCostContainer {display: none;}
+
+
+/* -------------------- Paperight team adjustments from default theme CSS overrides */
+
+ul, ol {
+   margin-bottom: 1em;
+}
+
+/* -------------------- Make input text darker */
+
+input[type=""text""], input[type=""password""] {
+   color: #222222;
+}
+
+/* -------------------- Override restrictive height setting in Latest Transactions table in sales dashboard */
+
+.product-ui-tn-label {
+   height: auto;
+   min-height: 60px;
+}
+
+/* -------------------- Make impersonate warning message float and always visible */
+
+#impersonate-message {
+   z-index: 99;
+   left: 10px;
+   top: 10px;
+   position: fixed;
+}
+
+/* -------------------- Appearance of thumbnails in 'related products' metadata on product page */
+
+img.related-products-thumbnail {
+   border: 1px solid #e5e5e5 !important;
+}
+
+/* -------------------- Hide unnecessary stuff on error pages */
+
+.error #intro-video, .error #deck {
+   display: none;
+}
+
+/* -------------------- Put search panel above other elements */
+
+#search-panel {
+   z-index: 1;
+}
+/* -------------- Clean up appearance of footer */
+
+#footer .wrapper .navigation {
+	text-align: center;
+	margin: 1.5em 3em 3em 3em;
+}
+#footer .wrapper .navigation ul li a {
+	font-size: 14px;
+}
+#footer .wrapper .accolades {
+	border-top: 1px solid #f2f2f2;
+	padding: 2em 0 0 0;
+	position: absolute;
+}
+#footer .wrapper .logos {
+	display: none;
+}
+
+/* Improve appearance of 'Download free preview' link */
+
+.preview {
+  float: right;
+  margin-right: 2em;
+}
+.preview a.btn-preview {
+  border: 1px solid #ccc;
+  padding: 0.5em;
+  border-radius: 0.5em;
+}
+.preview a.btn-preview:hover {
+  background-color: #f2f2f2;
+}
+
+/* Add buttony link, e.g. a help link on productDetailLoggedIn */
+
+a.process-help-link {
+  border: 1px solid #f2f2f2;
+  padding: 0.5em;
+  border-radius: 0.5em;
+  margin: 0 2em;
+  font-weight: normal;
+  font-size: 12px;
+  color: #bbb;
+}
+a.process-help-link:hover {
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+}
+
+/* Fix width of article layouts */
+
+.columns {
+  margin: 40px;
+}",1
+667,17/04/06 10:19,productDetailLoggedIn,en,printingDetailsAndCostsHeader,18/07/26 12:12,"Printing details and costs <a class=""process-help-link"" href=""http://help.paperight.com/outlet-guide/buying-a-licence/"" target=""_blank"">Help</a>",0
+668,17/04/06 10:19,productDetailLoggedIn,en,toolTip,18/07/26 12:03,"<ol><li>Enter customer's full name.</li><li>Select how many copies you will print for them.</li><li>Select whether PDF is 1 or 2 pages per A4 side.</li><li>Enter your total printing/binding/service charges.</li><li>Click 'Buy now'.</li></ol><a href=""http://help.paperight.com/outlet-guide/buying-a-licence/"" target=""_blank"">Get more help here</a>",0
+669,17/05/06 20:16,footer,en,followUsText,18/07/17 11:59,Follow us ,0
+670,18/07/16 13:55,publisher-earnings,en,grid-layout-heading,18/07/16 13:55,Format,0
+671,17/04/06 10:19,productDetailLoggedIn,en,priceAddPrintCosts,18/07/16 13:47,"Printing, binding and colour cover",0
+672,18/07/15 20:27,product-detail-licences,en,print-licence-button,18/07/15 20:27,Print licence,0
+673,18/07/12 11:29,searchResult,en,printoutAvailable,18/07/15 10:09,Buy print-on-demand,0
+674,18/07/12 11:29,searchResult,en,canPhotocopy,18/07/15 10:09,Buy photocopy licence,0
+675,18/07/12 11:29,productDetailAnonymous,en,printoutAvailable,18/07/15 10:08,Buy print-on-demand,0
+676,18/07/12 11:29,productDetailAnonymous,en,canPhotocopy,18/07/15 10:08,Buy photocopy licence,0
+677,18/07/12 11:33,productDetailLoggedIn,en,layoutPhotocopy,18/07/12 11:33,Photocopy licence only (no book PDF),0
+678,18/07/12 11:29,product-detail-licences,en,dialog-generate-print-licence-generating,18/07/12 11:29,Generating print licence...,0
+679,18/07/12 11:29,product-detail-licences,en,dialog-generate-print-licence-title,18/07/12 11:29,Generating print licence,0
+680,18/07/12 11:29,product-detail-licences,en,dialog-generate-print-licence-generated,18/07/12 11:29,Your file will now download.,0
+681,18/07/12 11:29,product-detail-licences,en,dialog-generate-print-licence-button-ok,18/07/12 11:29,OK,0
+682,18/07/12 11:29,product-detail-licences,en,dialog-print-licence-message,18/07/12 11:29,Your print licence will download shortly. You may close this window at any time.,0
+683,18/07/12 11:29,product-detail-licences,en,dialog-print-licence-title,18/07/12 11:29,Invoice,0
+684,18/07/12 11:29,product-detail-licences,en,dialog-print-licence-button-ok,18/07/12 11:29,OK,0
+685,18/07/05 11:45,productDetailLoggedIn,en,pricePremiumnProductHeader,18/07/05 11:45,Want to buy this book?,0
+686,18/07/05 11:45,productDetailLoggedIn,en,pricePremiumnProductDescription,18/07/05 11:45,"Sorry, this is only available to Premium outlets",0
+687,18/07/05 11:42,productDetailAnonymous,en,headingPremium,18/07/05 11:42,This is only available from our Premium outlets. See the map for these outlets.,0
+688,18/07/01 18:43,product-outlets-map,en,order-by-email-button,18/07/01 18:43,Order by email,0
+689,18/07/01 18:43,order-by-email,en,subject,18/07/01 18:43,Request to print a Paperight book,0
+690,18/07/01 18:43,order-by-email,en,body,18/07/01 18:43,"Hello. I would like to order a copy of [$productTitle$], which is on Paperight here: [$productUrl$]
+
+Please send me details of pricing and how to pay and collect.
+
+Thank you.",1
+691,17/04/06 10:19,productDetailLoggedIn,en,customerDetailsHeader,18/07/01 11:07,Who will own this copy?,0
+692,19/02/19 11:40,notifications,en,reopen-account-success,19/02/19 11:40,Account reopened successfully. You can now log in with your username and password.,0
+693,19/03/18 21:07,topupPanel,en,downloadAllLicencesButton,19/03/18 21:07,Download licences,0
+694,19/03/18 21:07,topupPanel,en,downloadAllEarningsButton,19/03/18 21:07,Download earnings,0
